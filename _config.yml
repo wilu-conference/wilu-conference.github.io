@@ -27,8 +27,8 @@ instagram: myinstagram
 # Build settings
 markdown: kramdown
 
-paginate: 6
-paginate_path: /page:num/
+#paginate: 6
+#paginate_path: /page:num/
 
 include:
   - _pages
