@@ -6,6 +6,8 @@ main:
   - url: "/schedule/"
     title: "Schedule"
   - url: "/local/"
-    title: "Local"
+    title: "Local Arrangements"
+  - url: "/news/"
+    title: "News"
 
 include_social: true
