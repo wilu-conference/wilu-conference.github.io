@@ -1,0 +1,26 @@
+---
+---
+
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<html>
+  {% include head.html %}
+  <body
+    {% if page.is_preload %}class="is-preload"{% endif %}
+    {% if page.layout == "home" %}class="fade-in"{% endif %}>
+    <div id="wrapper">
+      {% include header.html %}
+      {% include navigation.html %}
+      <div id="main">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

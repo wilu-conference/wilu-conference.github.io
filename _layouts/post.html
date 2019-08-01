@@ -1,39 +1,35 @@
-<!DOCTYPE HTML>
-<!--
-	   Massively by HTML5 UP
-	   html5up.net | @ajlkn
-	   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-   -->
-<html>
+---
+layout: default
+is_preload: true
+---
 
-    {% include head.html %}
+<section class="post">
+  <header class="major">
+    {% if page.date %}
+      <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    {% endif %}
 
-	  <body class="is-loading">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
 
-		    <!-- Wrapper -->
-			  <div id="wrapper">
+    {% if page.description %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+  </header>
 
-            {% include header.html %}
-            {% include menu.html %}
+  {% if page.image %}
+    {% if page.image.header %}
+      {% assign entry_image = page.image.header %}
+    {% else %}
+      {% assign entry_image = page.image %}
+    {% endif %}
+    {% unless entry_image contains '://' %}
+      {% assign entry_image = entry_image | relative_url %}
+    {% endunless %}
+    {% assign entry_image = entry_image | escape %}
+    <img src="{{ entry_image }}" class="image main" alt="" />
+  {% endif %}
 
-				    <!-- Post -->
-				    <section class="post">
-						    <header class="major">
-								    <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
-								    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-								    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
-						    </header>
-
-                {% if page.image %}
-                <div class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></div>
-                {% endif %}
-
-                {{ content }}
-
-				    </section>
-
-            {% include footer.html %}
-
-    </body>
-
-</html>
+  {{ content }}
+</section>

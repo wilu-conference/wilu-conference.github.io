@@ -1,0 +1,26 @@
+{% assign bg = site.data.assets.background %}
+
+{% if bg.image %}
+  {% capture bg_path %}{{ bg.image | relative_url }}{% endcapture %}
+{% else %}
+  {% capture bg_path %}{{ 'assets/images/bg.jpg' | relative_url }}{% endcapture %}
+{% endif %}
+
+{% if bg.no_overlay %}
+  {% assign overlay = false %}
+{% else %}
+  {% assign overlay = true %}
+{% endif %}
+
+#wrapper > .bg {
+  background-image: {% if overlay %} url("{{ 'assets/images/overlay.png' | relative_url }}"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), {% endif %} url("{{ bg_path }}");
+  background-size: {% if overlay %} auto, auto, {% endif %} 100% auto;
+  background-position: {% if overlay %} center, center, {% endif %} top center;
+  background-repeat: {% if overlay %} repeat, no-repeat, {% endif %} no-repeat;
+}
+
+@media screen and (orientation: portrait) {
+  #wrapper > .bg {
+    background-size: {% if overlay %} auto, auto, {% endif %} auto 175%;
+  }
+}

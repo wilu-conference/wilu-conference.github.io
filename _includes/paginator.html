@@ -1,0 +1,43 @@
+{% if paginator.total_pages > 1 %}
+<footer>
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | append: '#posts' | relative_url }}" class="page previous">Previous</a>
+    {% endif %}
+
+    {% assign page_from = 1 %}
+
+    {% if paginator.page > 4 %}
+      <a href="{{ site.baseurl | append: '/#posts' }}" class="page">1</a>
+      <span class="extra">&hellip;</span>
+      {% assign page_from = paginator.page | minus: 2 %}
+    {% endif %}
+
+    {% assign page_to = paginator.page | plus: 2 %}
+    {% assign upper_bnd = page_to | plus: 1 %}
+
+    {% if upper_bnd >= paginator.total_pages %}
+      {% assign page_to = paginator.total_pages %}
+    {% endif %}
+
+    {% for page in (page_from..page_to) %}
+      {% if page == paginator.page %}
+        <a href="#" class="page active">{{ page }}</a>
+      {% elsif page == 1 %}
+        <a href="{{ site.baseurl | append: '/#posts' }}" class="page">1</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | append: '#posts' | replace: '//', '/' | replace: ':num', page }}" class="page">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if page_to != paginator.total_pages %}
+      <span class="extra">&hellip;</span>
+      <a href="{{ site.paginate_path | prepend: site.baseurl | append: '#posts' | replace: '//', '/' | replace: ':num', paginator.total_pages }}" class="page">{{ paginator.total_pages }}</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="page next">Next</a>
+    {% endif %}
+  </div>
+</footer>
+{% endif %}

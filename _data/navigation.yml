@@ -1,0 +1,11 @@
+main:
+  - url: "/"
+    title: "WILU 2020"
+  - url: "/register/"
+    title: "Register"
+  - url: "/schedule/"
+    title: "Schedule"
+  - url: "/local/"
+    title: "Local"
+
+include_social: true

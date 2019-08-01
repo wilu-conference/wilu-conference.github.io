@@ -1,0 +1,27 @@
+<!-- Scripts -->
+<script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/jquery.scrollex.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/jquery.scrolly.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/browser.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/breakpoints.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/util.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+
+{% for s in site.data.assets.scripts %}
+  {% comment %} internal/external URL check {% endcomment %}
+  {% if s contains "://" %}
+    {% assign script_url = s %}
+  {% else %}
+    {% assign script_url = s | relative_url %}
+  {% endif %}
+  <script src="{{ script_url }}"></script>
+{% endfor %}
+
+{% for s in page.scripts %}
+  {% if s contains "://" %}
+    {% assign script_url = s %}
+  {% else %}
+    {% assign script_url = s | relative_url %}
+  {% endif %}
+  <script src="{{ script_url }}"></script>
+{% endfor %}

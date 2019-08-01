@@ -1,7 +1,26 @@
 <head>
-		<title>{{ site.title }} {{ site.subtitle }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
-		<noscript><link rel="stylesheet" href="{{ 'assets/css/noscript.css' | relative_url }}" /></noscript>
+  <title>{{ site.title }}</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <noscript><link rel="stylesheet" href="{{ 'assets/css/noscript.css' | relative_url }}" /></noscript>
+  <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
+
+  {% for s in site.data.assets.styles %}
+    {% comment %} internal/external URL check {% endcomment %}
+    {% if s contains "://" %}
+      {% assign style_url = s %}
+    {% else %}
+      {% assign style_url = s | relative_url %}
+    {% endif %}
+    <link rel="stylesheet" href="{{ style_url }}" />
+  {% endfor %}
+
+  {% for s in page.styles %}
+    {% if s contains "://" %}
+      {% assign style_url = s %}
+    {% else %}
+      {% assign style_url = s | relative_url %}
+    {% endif %}
+    <link rel="stylesheet" href="{{ style_url }}" />
+  {% endfor %}
 </head>

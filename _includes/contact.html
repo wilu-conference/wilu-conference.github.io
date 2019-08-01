@@ -1,0 +1,60 @@
+{% assign contact = site.data.contact %}
+
+<!-- Contact form -->
+{% if contact.use %}
+<section>
+  <form method="post" action="{{ contact.action }}">
+    <div class="fields">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="text" name="email" id="email" />
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="3"></textarea>
+      </div>
+    </div>
+    <ul class="actions">
+      <li><input type="submit" value="Send Message" /></li>
+    </ul>
+  </form>
+</section>
+<section class="split contact">
+  {% if contact.address.first %}
+  <section class="alt">
+    <h3>Address</h3>
+    <p>
+    {% if contact.address.first %}
+      {% for line in contact.address %}
+        {{ line }}{% if line != contact.address.last %}<br />{% endif %}
+      {% endfor %}
+    {% else %}
+      {{ contact.address }}
+    {% endif %}
+    </p>
+  </section>
+  {% endif %}
+  {% if site.phone %}
+    <section>
+      <h3>Phone</h3>
+      <p><a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
+    </section>
+  {% endif %}
+  {% if site.email %}
+  <section>
+    <h3>Email</h3>
+    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+  </section>
+  {% endif %}
+  <section>
+    <h3>Social</h3>
+    <ul class="icons alt">
+      {% include social_icons.html %}
+    </ul>
+  </section>
+</section>
+{% endif %}
