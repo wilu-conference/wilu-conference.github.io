@@ -3,7 +3,7 @@ title: WILU 2020
 subtitle: seeing the future
 #email: youremailaddress@gmail.com
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "2020" # the subpath of your site, e.g. /blog
 url: "https://wilu-conference.github.io/2020/" # the base hostname & protocol for your site
 author:
 
