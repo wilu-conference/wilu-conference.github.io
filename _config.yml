@@ -1,0 +1,21 @@
+# site settings
+title: WILU 2020
+subtitle: seeing the future
+#email: youremailaddress@gmail.com
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wilu-conference.github.io/2020/" # the base hostname & protocol for your site
+author:
+
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/wilu-conference
+twitter_url: https://twitter.com/wilu
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
