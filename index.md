@@ -11,7 +11,7 @@ intro:
   <header class="major">
     <span class="date">August 1, 2019</span>
     <h2>Halifax, NS</h2>
-    <p>WILU 2020 will be hosted by Dalhousie University in Halifax, NS on May something.</p>
+    <p>WILU 2020 will be hosted by Dalhousie University, Mount Saint Vincent University, and Saint Mary's University in Halifax, NS on May 27 to 29, 2020.</p>
   </header>
  <!-- <a href="#" class="image main"><img src="{{ 'assets/images/pic01.jpg' | relative_url }}" alt="" /></a>-->
   <ul class="actions special">
