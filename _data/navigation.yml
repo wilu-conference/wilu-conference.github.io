@@ -1,8 +1,8 @@
 main:
   - url: "/"
     title: "WILU 2020"
-  - url: "/register/"
-    title: "Register"
+  - url: "/About/"
+    title: "About"
   - url: "/schedule/"
     title: "Schedule"
   - url: "/local/"
