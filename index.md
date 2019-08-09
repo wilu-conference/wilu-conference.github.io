@@ -3,7 +3,7 @@ layout: home
 intro:
   title: "WILU<br />2020"
   text: >
-    looking to the future
+    Visions of the possible
 ---
 
 <!-- Featured Post -->
