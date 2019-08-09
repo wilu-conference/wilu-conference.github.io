@@ -21,3 +21,9 @@ Karen Nicholson: Information into action? Reflecting on (critical) practice
 - **2017  University of Alberta – [Engage, Expand, Explore](https://wilu2017.library.ualberta.ca/)**  
 Niigaanwewidam James Sinclair: Appropriation or Appreciation: How to Engage Indigenous Literatures   
 Jessie Loyer: Librarians, wâhkôhtowin, and information literacy instruction: building kinship in research relationships
+- **2016  University of British Columbia – [Intersections](http://blogs.ubc.ca/wilu2016/)**  
+Emily Drabinski: Intersections with Power: Critical Teaching the Library Catalogue E.   
+Paul Zehr: Closing Keynote
+- **2015	Memorial University – [sea change](https://wilu2015.wordpress.com/)**  
+Char Booth: Information Privilege: Narratives of Challenge and Change  
+TA Loeffler: Cultivating a View Towards Change
