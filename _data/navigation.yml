@@ -1,7 +1,7 @@
 main:
   - url: "/"
     title: "WILU 2020"
-  - url: "/About/"
+  - url: "/about/"
     title: "About"
   - url: "/schedule/"
     title: "Schedule"
