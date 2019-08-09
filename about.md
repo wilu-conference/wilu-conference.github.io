@@ -12,7 +12,7 @@ The workshop continues to exist independently from library organizations in orde
 
 ## Host History
 
-- **2018	University of Ottawa** – [Information into Action](https://wilu2018.ca/)
+- **2018	University of Ottawa – [Information into Action](https://wilu2018.ca/)**  
 Guylaine Beaudry: Information and digital literacies as foundation of digital strategies Karen Nicholson: Information into action? Reflecting on (critical) practice
 - ### 2017  University of Alberta – [Engage, Expand, Explore](https://wilu2017.library.ualberta.ca/)
 Niigaanwewidam James Sinclair: Appropriation or Appreciation: How to Engage Indigenous Literatures Jessie Loyer: Librarians, wâhkôhtowin, and information literacy instruction: building kinship in research relationships
