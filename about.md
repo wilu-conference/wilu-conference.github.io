@@ -9,3 +9,8 @@ The Workshop for Instruction in Library Use is an annual Canadian conference whe
 Based on enthusiastic comments received from participants at a workshop that occurred in August 1972, a basic set of guidelines was established for the formation of WILU. The conference initially targeted staff and librarians from universities and colleges in Ontario and Quebec, and a committee was formed consisting of representation from several different institutions. Today, oversight passes from one hosting institution to the next, and WILU attracts librarians from across Canada, the US, and beyond.
 
 The workshop continues to exist independently from library organizations in order to facilitate grass roots participation at the lowest possible cost, and registration fees are set as low as possible. Outside speakers are kept to a minimum, and input is sought from librarians, faculty members, and students for whom library instruction is designed. The workshop emphasizes experience and learning, and has evolved to blend practice with meaningful theory and research. As the information landscape evolves, WILU continues to redefine itself as Canada’s premier information literacy conference.
+
+## Host History
+
+### 2018	University of Ottawa – [Information into Action](https://wilu2018.ca/)
+Guylaine Beaudry: Information and digital literacies as foundation of digital strategies Karen Nicholson: Information into action? Reflecting on (critical) practice
