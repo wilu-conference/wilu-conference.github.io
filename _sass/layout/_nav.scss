@@ -90,6 +90,7 @@
 		position:relative;
 		width:100%;
 		
+		
 
 		ul {
 			&.about-links {
@@ -100,13 +101,20 @@
 				padding: 0 4rem 0 9rem;
 				list-style:none; 
 				text-transform: uppercase;
-    			text-align:center;				
+    			text-align:center;	
+    			line-height:1.5em;			
 
 		a {
 			text-decoration:none; 
 			padding:0 30px;
  		}
 			
+		.active a {
+			pointer-events: none;
+			color: _palette(invert, accent) !important;
+
+			}
+					
 			
 	@include breakpoint('<=medium') {
 		display: block;
