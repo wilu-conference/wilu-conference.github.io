@@ -112,7 +112,7 @@
 				letter-spacing: 0.075em;
 				float:left; /* IE6 needs this */
 				position:relative;
-				left:-50%;
+				left:-52%;
 				list-style:none; 
 				text-transform: uppercase;
     			text-align:center;				
@@ -158,8 +158,15 @@
 	
 		
 @include breakpoint('<=medium') {
-		.about-links li {
-			display: none;
+		display: inline-block;
+		font-size: 0.8rem;
+		line-height: 1em;
+		padding-top: 3rem;
+		padding-bottom: 8rem;
 		}
+	
+	
+@include breakpoint('<=small') {
+		display: none;
 		}
 	}
