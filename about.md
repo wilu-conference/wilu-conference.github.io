@@ -5,7 +5,7 @@ permalink: /about/
 is_preload: true
 ---
 
-{% include about-navigation.html %}
+ {% include about-navigation.html %}
 
 
 The Workshop for Instruction in Library Use is an annual Canadian conference where delegates meet to discuss timely topics on information literacy. In May 1972, five Canadian participants at a conference on library instruction in Ypsilanti, Michigan discussed ways to share their experiences with other Canadian librarians. Within a few months, a steering committee was formed consisting of Boris Chumakov (York University), Richard Dewey (Sir George Williams University, now Concordia University), Lucie Greene (University of Western Ontario), Patricia Grieg (University of Western Ontario), and Sheila Laidlaw (University of Toronto).
