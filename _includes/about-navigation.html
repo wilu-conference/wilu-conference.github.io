@@ -1,11 +1,10 @@
-{% assign navigation = site.data.navigation.main %}
+{% assign navigation = site.data.about-navigation.main %}
 
 {% if navigation %}
-<nav id="nav">
-	<ul class="links">
+<nav id="about-nav">
+	<ul class="about-links">
     {% for nav in navigation %}
-      <li 
-        {% if nav.url == page.url %} class="active" {% endif %}>
+      <li {% if nav.url == page.url %} class="active" {% endif %}>
       {% comment %} internal/external URL check {% endcomment %}
       {% if nav.url contains "://" %}
         {% assign nav_url = nav.url %}
@@ -18,11 +17,5 @@
       </li>
     {% endfor %}
 	</ul>
-
-  {% if site.data.navigation.include_social %}
-  <ul class="icons">
-    {% include social_icons.html %}
-  </ul>
-  {% endif %}
-</nav>
 {% endif %}
+</nav>

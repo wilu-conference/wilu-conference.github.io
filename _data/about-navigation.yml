@@ -1,0 +1,9 @@
+main:
+  - url: "/about/"
+    title: "About"  
+  - url: "/about/history/"
+    title: "History"
+  - url: "/about/planning/"
+    title: "Planning Team"
+  - url: "/about/code/"
+    title: "Code of Conduct"

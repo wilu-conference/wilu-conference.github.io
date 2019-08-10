@@ -2,7 +2,7 @@ main:
   - url: "/"
     title: "WILU 2020"
   - url: "/about/"
-    title: "About"
+    title: "About"  
   - url: "/schedule/"
     title: "Schedule"
   - url: "/local/"
