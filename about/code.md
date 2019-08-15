@@ -5,6 +5,7 @@ permalink: /about/code/
 ---
 
 {% include about-navigation.html %}
+Conduct During the Conference] (#conduct-during-the-conference) | [Reporting Process] (#reporting-process) | [Contact Information] (#contact-information)
 
 ## Conduct During the Conference
 
@@ -46,5 +47,5 @@ Depending on the circumstances, the WILU Planning Team may be obliged to involve
 
 At least two WILU Planning Team members involved in the event will be designated as Code of Conduct administrators. These administrators will be identified in advance and at the event should a delegate need to contact them.
 
-Adapted from the Ontario Library Association Code of Conduct for OLA Events , the Canadian Alliance of Student Associations’ Code of Conduct and the Munin Conference on Scholarly Publishing Policy on Sexual Harassment
+Adapted from the [Ontario Library Association Code of Conduct for OLA Events] (http://www.olasuperconference.ca/about/code-of-conduct/) , [the Canadian Alliance of Student Associations’ Code of Conduct] (https://www.casa-acae.com/code_of_conduct) and the [Munin Conference on Scholarly Publishing Policy on Sexual Harassment] (http://site.uit.no/muninconf/?page_id=1358)
 
