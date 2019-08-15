@@ -38,8 +38,8 @@ All measures will be taken to protect the identity of the reporting participant 
 If the report is made against a WILU Planning Team member, they will not be involved in the resolution.
 
 Depending on the circumstances, the WILU Planning Team may be obliged to involve Dalhousie University security and/or law enforcement. When possible, this will be left up to the discretion of the reporting participant.
-:point_up:[Return to top](#conduct-during-the-conference)
-
+* [Return to top](#conduct-during-the-conference)
+:point_up:
 ## Contact Information
 * Incidents may be reported by email, by telephone or in person.
 * Email: xxx@xxxxx.ca
@@ -50,5 +50,5 @@ At least two WILU Planning Team members involved in the event will be designated
 
 Adapted from the [Ontario Library Association Code of Conduct for OLA Events](http://www.olasuperconference.ca/about/code-of-conduct/) , [the Canadian Alliance of Student Associations’ Code of Conduct](https://www.casa-acae.com/code_of_conduct) and the [Munin Conference on Scholarly Publishing Policy on Sexual Harassment](http://site.uit.no/muninconf/?page_id=1358)
 
-:point_up:[Return to top](#conduct-during-the-conference)
+[Return to top](#conduct-during-the-conference)
 
