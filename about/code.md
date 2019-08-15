@@ -6,7 +6,6 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 ## Conduct During the Conference
-
 * [Reporting Process](#reporting-process)
 * [Contact Information](#contact-information) 
 
