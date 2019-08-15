@@ -6,7 +6,7 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 
-##Conduct During the Conference
+## Conduct During the Conference
 
 The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
 
