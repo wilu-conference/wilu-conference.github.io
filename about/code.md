@@ -6,11 +6,11 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 
-<font size=2> [Conduct During the Conference](#conduct-during-the-conference) </font>
+<span style=font-size=75%>  [Conduct During the Conference](#conduct-during-the-conference) </span>
 
-* <font size=2>  [Reporting Process](#reporting-process)  </font>
+* <span style=font-size=75%>  [Reporting Process](#reporting-process)  </span>
   
-* <font size=2>  [Contact Information](#contact-information)  </font>
+* <span style=font-size=75%>  [Contact Information](#contact-information)  </span>
 
 ## Conduct During the Conference
 
