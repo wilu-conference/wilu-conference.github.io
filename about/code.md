@@ -21,4 +21,30 @@ If at any time a participant feels that they have been harassed or that this cod
 The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2020.
 If you are planning on taking photos or videos while at WILU 2020, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
 
+## Reporting Process
+
+Upon receipt of a report (whether written or verbal – contact information is below) by an individual, members of the WILU Planning Team will take appropriate steps to investigate and address the matter.  These steps may include, but are not limited to:
+1. Where a verbal complaint has been received, asking the complainant to put their concerns in writing;
+2. Requesting that the respondent reply to the report in writing;
+3. Investigating the allegations of discrimination/harassment;
+4. Meeting with the concerned parties;
+5. Mediating the dispute;
+6. Involving WILU Planning Team members for the purpose of suspending the perpetrator from the Conference, without refund, and any other disciplinary action which the WILU Planning Team members, in their discretion, may decide, and/or;
+7. If the circumstances require, the organizers may make interim orders to protect the safety and health of the complainant and other attendees, including temporary suspensions from specific spaces or facilities pending the resolution of the complaint, any of which must be reported immediately to WILU Planning Team members.
+
+All measures will be taken to protect the identity of the reporting participant and prevent retaliation.
+
+If the report is made against a WILU Planning Team member, they will not be involved in the resolution.
+
+Depending on the circumstances, the WILU Planning Team may be obliged to involve Dalhousie University security and/or law enforcement. When possible, this will be left up to the discretion of the reporting participant.
+
+## Contact Information
+* Incidents may be reported by email, by telephone or in person.
+* Email: xxx@xxxxx.ca
+* Telephone: (xxx) xxx-xxxx
+* To report anonymously, please text the phone number above.
+
+At least two WILU Planning Team members involved in the event will be designated as Code of Conduct administrators. These administrators will be identified in advance and at the event should a delegate need to contact them.
+
+Adapted from the Ontario Library Association Code of Conduct for OLA Events , the Canadian Alliance of Student Associations’ Code of Conduct and the Munin Conference on Scholarly Publishing Policy on Sexual Harassment
 
