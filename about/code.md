@@ -6,10 +6,9 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 
-<span style=font-size=75%>  [Conduct During the Conference](#conduct-during-the-conference) </span>
-
-* <span style=font-size=75%>  [Reporting Process](#reporting-process)  </span>
-* <span style=font-size=75%>  [Contact Information](#contact-information)  </span>
+* [Conduct During the Conference](#conduct-during-the-conference) 
+*  [Reporting Process](#reporting-process) 
+*  [Contact Information](#contact-information) 
 
 ## Conduct During the Conference
 
