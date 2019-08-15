@@ -6,8 +6,8 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 ## Conduct During the Conference
-* [Reporting Process](#reporting-process)
-* [Contact Information](#contact-information) 
+* **[Reporting Process](#reporting-process)**
+* **[Contact Information](#contact-information)**
 
 The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
 
@@ -38,8 +38,8 @@ All measures will be taken to protect the identity of the reporting participant 
 If the report is made against a WILU Planning Team member, they will not be involved in the resolution.
 
 Depending on the circumstances, the WILU Planning Team may be obliged to involve Dalhousie University security and/or law enforcement. When possible, this will be left up to the discretion of the reporting participant.
-* [Return to top](#conduct-during-the-conference)
-:point_up:
+**[Return to top](#conduct-during-the-conference)**
+
 ## Contact Information
 * Incidents may be reported by email, by telephone or in person.
 * Email: xxx@xxxxx.ca
@@ -50,5 +50,7 @@ At least two WILU Planning Team members involved in the event will be designated
 
 Adapted from the [Ontario Library Association Code of Conduct for OLA Events](http://www.olasuperconference.ca/about/code-of-conduct/) , [the Canadian Alliance of Student Associations’ Code of Conduct](https://www.casa-acae.com/code_of_conduct) and the [Munin Conference on Scholarly Publishing Policy on Sexual Harassment](http://site.uit.no/muninconf/?page_id=1358)
 
-[Return to top](#conduct-during-the-conference)
+**[Return to top](#conduct-during-the-conference)**
 
+:EMOJICODE:
+:point_up:
