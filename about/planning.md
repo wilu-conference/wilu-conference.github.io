@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Planning Team
+title: 2020 Planning Team
 permalink: /about/planning/
 ---
 
 {% include about-navigation.html %}
 
-test text

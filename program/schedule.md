@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Keynotes
-permalink: /program/keynotes/
+title: Schedule
+permalink: /program/schedule/
 ---
 
 {% include program-navigation.html %}

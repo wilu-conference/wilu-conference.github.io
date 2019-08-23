@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Program Schedule
+title: Keynote Speakers
 permalink: /program/
 # image: assets/images/pic01.jpg
 ---
