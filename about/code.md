@@ -5,11 +5,12 @@ permalink: /about/code/
 ---
 
 {% include about-navigation.html %}
+
+The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
+
 ## Conduct During the Conference
 * **[Reporting Process](#reporting-process)**
 * **[Contact Information](#contact-information)**
-
-The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
 
 The WILU Planning Team does not tolerate harassment in any form. Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment. It includes offensive verbal comments or non-verbal expressions related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, religious beliefs, sexual or discriminatory images in public spaces (including online), deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -43,8 +44,8 @@ Depending on the circumstances, the WILU Planning Team may be obliged to involve
 
 ## Contact Information
 * Incidents may be reported by email, by telephone or in person.
-* Email: xxx@xxxxx.ca
-* Telephone: (xxx) xxx-xxxx
+* Email: <{{ site.email }}>
+* Telephone: {{site.telephone}}
 * To report anonymously, please text the phone number above.
 
 At least two WILU Planning Team members involved in the event will be designated as Code of Conduct administrators. These administrators will be identified in advance and at the event should a delegate need to contact them.

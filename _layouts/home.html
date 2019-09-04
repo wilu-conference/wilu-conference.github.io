@@ -5,16 +5,12 @@ is_preload: true
 
 {{ content }}
 
-<section class="posts" id="posts">
-  {% if site.plugins contains 'jekyll-paginate' and site.paginate or site.gems contains 'jekyll-paginate' and site.paginate %}
-    {% comment %}
-      Snippet borrowed from https://github.com/mmistakes/jekyll-theme-basically-basic
-      Add paginator.posts loop if jekyll-paginate plugin is enabled and page.paginate == true
-    {% endcomment %}
-    {% include posts-paginated.html %}
-  {% else %}
-    {% include posts-all.html %}
-  {% endif %}
+<section class="posts">
+      
+   
+  
 </section>
 
-{% include paginator.html %}
+ {% include contact.html %}
+
+

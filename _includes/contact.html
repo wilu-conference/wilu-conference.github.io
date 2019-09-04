@@ -1,7 +1,9 @@
 {% assign contact = site.data.contact %}
 
+
 <!-- Contact form -->
 {% if contact.use %}
+<!--
 <section>
   <form method="post" action="{{ contact.action }}">
     <div class="fields">
@@ -22,7 +24,9 @@
       <li><input type="submit" value="Send Message" /></li>
     </ul>
   </form>
+  
 </section>
+ -->
 <section class="split contact">
   {% if contact.address.first %}
   <section class="alt">
@@ -38,6 +42,7 @@
     </p>
   </section>
   {% endif %}
+ 
   {% if site.phone %}
     <section>
       <h3>Phone</h3>

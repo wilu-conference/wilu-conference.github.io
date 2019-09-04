@@ -7,7 +7,7 @@
 
 # Site settings
 title: WILU 2020
-subtitle: "something about the future"
+subtitle: "Visions of the Possible"
 #email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
@@ -20,9 +20,12 @@ font-awesome-icon-logo:
 
 # Social settings
 github: wilu-conference
-twitter: mytwittername
-facebook: myfacebook
-instagram: myinstagram
+twitter: WILUconference
+facebook: WILUconference
+instagram: WILUconference
+email: "wilu2020halifax@gmail.com"
+telephone: 902.xxx.xxxx
+
 
 # Build settings
 markdown: kramdown
