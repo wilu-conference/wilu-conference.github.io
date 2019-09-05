@@ -33,7 +33,7 @@ Char Booth: Information Privilege: Narratives of Challenge and Change
 TA Loeffler: Cultivating a View Towards Change
 - **2014	Western University – [e-magine the possibilities](http://www.lib.uwo.ca/wilu2014/)**  
 Craig Gibson, Judy Jacobson, Megan Oakleaf
-- **2013 University of New Brunswick – [Synchronicity - The Time is Now](http://lib.unb.ca/WILU/)**  
+- **2013 University of New Brunswick – [Synchronicity - The Time is Now](https://preserve.lib.unb.ca/wilu-2013/20180730201815/http://lib.unb.ca/WILU/)**  
 Bonnie Stewart, Dave Cormier: MOOCs, Rhizomes, and Networks: Information Literacies in a Time of Complexity and Abundance  
 Terry Reilly: Changing the Conversation
 - **2012	Grant MacEwan University – [Vigour, Thrift and Resourcefulness](http://sites.macewan.ca/wilu2012/)**  
