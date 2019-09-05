@@ -31,3 +31,11 @@ Paul Zehr: Closing Keynote
 - **2015	Memorial University – [sea change](https://wilu2015.wordpress.com/)**  
 Char Booth: Information Privilege: Narratives of Challenge and Change  
 TA Loeffler: Cultivating a View Towards Change
+- **2014	Western University – [e-magine the possibilities](http://www.lib.uwo.ca/wilu2014/)**  
+Craig Gibson, Judy Jacobson, Megan Oakleaf
+- **2013 University of New Brunswick – [Synchronicity - The Time is Now](http://lib.unb.ca/WILU/)**  
+Bonnie Stewart, Dave Cormier: MOOCs, Rhizomes, and Networks: Information Literacies in a Time of Complexity and Abundance  
+Terry Reilly: Changing the Conversation
+- **2012	Grant MacEwan University – [Vigour, Thrift and Resourcefulness](http://sites.macewan.ca/wilu2012/)**  
+Michael Eisenberg: What College Students Say About Conducting Research in the Digital Age: Implications for Libraries, Librarians, and Higher Education from Project Information Literacy
+Adria Vasil: Decoding Greenwash
