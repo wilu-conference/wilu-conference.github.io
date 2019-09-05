@@ -42,7 +42,7 @@ Adria Vasil: Decoding Greenwash
 - **2011	University of Regina – [Learning Under Living Skies](http://epe.lac-bac.gc.ca/100/201/300/wilu/n40_2011/www2.uregina.ca/wilu2011/default.htm)**  
 Brian Thwaits: The Big Learn: Smart Ways to Use Your Brain
 David Bouchard: Aboriginal Success: A Crack in the Door
-- **2010	McMaster University – [Design, Play, Learn]**  
+- **2010	McMaster University – Design, Play, Learn**  
 Dr. James Paul Gee: A New Paradigm for Learning in the 21st Century (And Where Libraries Fit In)
 Dr. Steven J. Bell: Exploring the Instruction Mystery: Designing our way past a wicked problem
 - **2009	Concordia University – [Reflections](http://epe.lac-bac.gc.ca/100/201/300/wilu/n38_2009/library.concordia.ca/wilu2009/index-en.php)**  
@@ -56,12 +56,12 @@ Judith Peacock &; Nancy Goebel: Alice and the Carpenter present: The Time Has Co
 Rick Salutin: Thinking versus knowing: Where does information come in?
 Patricia Iannuzzi: Changing learning, changing roles: Collaboration at every angle
 Fay Durrant: Culture, context and content: Vital issues in ensuring information literacy and effective e-citizenship
-- **2006	Acadia University – [Charting a Course for Instruction]**
+- **2006	Acadia University – Charting a Course for Instruction**      
 Dr. Patricia Senn-Breivik: Information literacy and lifelong learning: The time is now!
 Dr. Jeremy Shapiro & Ms. Shelley Hughes: If everything is information, is information literacy possible?
 Dr. Toni Samek: Information ethics on our global library streets
-- **2005	University of Guelph – [A Kaleidoscope of Possibilities]**
+- **2005	University of Guelph – A Kaleidoscope of Possibilities**
 Bill Johnston, Sheila Webber
-- **2004	University of Victoria – [Theory Meets Reality]**
+- **2004	University of Victoria – Theory Meets Reality**
 Dane Ward: The collaborative quest for compelling information literacy instruction
 Trudi Bellardo Hahn: Connecting information literacy to the research process
