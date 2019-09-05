@@ -60,7 +60,7 @@ Fay Durrant: Culture, context and content: Vital issues in ensuring information 
 Dr. Patricia Senn-Breivik: Information literacy and lifelong learning: The time is now!
 Dr. Jeremy Shapiro & Ms. Shelley Hughes: If everything is information, is information literacy possible?
 Dr. Toni Samek: Information ethics on our global library streets
-- **2005	University of Guelph – A Kaleidoscope of Possibilities**
+- **2005	University of Guelph – A Kaleidoscope of Possibilities**       
 Bill Johnston, Sheila Webber
 - **2004	University of Victoria – Theory Meets Reality**
 Dane Ward: The collaborative quest for compelling information literacy instruction
