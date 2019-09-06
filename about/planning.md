@@ -6,7 +6,7 @@ permalink: /about/planning/
 
 {% include about-navigation.html %}
 
-<p>Melissa Helwig<br />
+<p>Melissa Helwig<br /> 
 Dalhousie Libraries</p>
 
 <p>Heather Sanderson<br />
@@ -27,6 +27,7 @@ Dalhousie Libraries</p>
 <p>Sandra Sawchuk<br />
 Mount Saint Vincent University Library</p>
 
+<img src="img/image.jpg" alt="gras" /></p
 <p>Shawna Murphy<br />
 Patrick Power Library</p>
 
