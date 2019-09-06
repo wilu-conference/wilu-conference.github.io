@@ -5,10 +5,10 @@ main:
     title: "About"  
   - url: "/program/"
     title: "Program"
-  - url: "/registration/"
-    title: "Registration"
+  - url: "/call/"
+    title: "Call for Proposals"
   - url: "/local/"
-    title: "Local Arrangements"
+    title: "Local Info"
   - url: "/news/"
     title: "News"
 
