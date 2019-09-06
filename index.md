@@ -1,7 +1,9 @@
 ---
 layout: home
 intro:
-  
+  title: "WILU<br />2020"
+  text: >
+    Visions of the Possible
 ---
 
 <!-- Featured Post -->
