@@ -92,21 +92,21 @@ Lorna Marsden
 Patricia Breivik
 - **1991	Concordia University – From Yesterday to Tomorrow**
 Maureen Pastine: Library user education: Where have we been? Where are we going?
-- **1990	Brock University – The Challenge of the 90’s**
+- **1990	Brock University – The Challenge of the 90’s**  
 Constance Mellon: Library anxiety: Instruction librarian as therapist
-- **1989	Bishop’s University & Champlain Regional College – The Art of Library Instruction**
+- **1989	Bishop’s University & Champlain Regional College – The Art of Library Instruction**  
 Evan I. Farber: How I became ‘Bibliographic Instructor of the Year’
-- **1988	University of Waterloo & Wilfrid Laurier University – Teaching and Learning in the Present Tense**
+- **1988	University of Waterloo & Wilfrid Laurier University – Teaching and Learning in the Present Tense**  
 Stanley Benson & Sheila Laidlaw: The library’s status in undergraduate instruction: Far from the heart of things
-- **1987	McMaster University & Mohawk College – Re-Creating the Image**
+- **1987	McMaster University & Mohawk College – Re-Creating the Image**  
 Panel with Tom Eadie, Tanis Fink; Jacelyn Foster – Immodest proposals: Alternative futures for instruction
-- **1986	John Abbott College – Connections Linking the Library Instruction Network**
+- **1986	John Abbott College – Connections Linking the Library Instruction Network**  
 R. Smith & L. Melamed: Learning style theory: Implications for helping others learn
-- **1985	University of Western Ontario & Fanshawe College – Reaching Out: New Directions in Library Instruction**
+- **1985	University of Western Ontario & Fanshawe College – Reaching Out: New Directions in Library Instruction**  
 Moderator, George Robinson: Panel on faculty communication and the role of library instruction
 - **1984	Queen’s University & St. Lawrence College – Coping with Crisis: Strategies for Survival**
 Margot McBurney
-- **1983	Carleton University & Algonquin College – Exploring the New Technology for Library Instruction**
+- **1983	Carleton University & Algonquin College – Exploring the New Technology for Library Instruction**  
 Fraser Taylor: Videotex and related technologies
 - **1982	University of Toronto – A Learner-Centred Approach to Teaching**
 Liz Burge: How adults learn
