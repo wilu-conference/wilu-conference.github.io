@@ -65,3 +65,66 @@ Bill Johnston, Sheila Webber
 - **2004	University of Victoria – Theory Meets Reality**
 Dane Ward: The collaborative quest for compelling information literacy instruction
 Trudi Bellardo Hahn: Connecting information literacy to the research process
+- **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**
+Dr. Clara Chu: Information literacy within a multicultural critical framework
+- **2002	University of New Brunswick – River Runs: Trends in Library Instruction**
+Dr. Heidi Julien: Miles to go before we sleep
+- **2001	Carleton Unversity – Teaching Using Learning in a Pluralist Setting**
+Dr. Tim Pychyl: What’s our vision for teaching & learning?: Addressing systemic barriers to information literacy instruction
+- **2000	University of Western Ontario – Literacy for the Infollennium**
+Hannelore Rader: If we teach them will they learn?
+Dr. Michael Atkinson: Teaching and learning in the 21st century
+- **1999	McGill University – Process of Integrating Library Instruction into the Curriculum in Partnership with Our Teaching Colleagues**
+Carol Kuhlthau: Collaboration in the learning process
+Gloria Leckie: Fostering a pedagogy for information literacy
+- **1998	Queen’s University – Libraries at the Heart of Learning**
+Cerise Oberman: Library liaison program
+- **1997	University of Montreal – Gateways to the Information World**
+Thérèse Laferrière: Learning to search and create co-operatively
+- **1996	Wilfrid Laurier University – Anticipation: Library Instruction for Changing Times**
+Roma Harris: Development of library instruction and its place in a changing learning environment
+- **1995	Université Laval**
+- **1994	University of Ottawa – Making Connections**
+Richard Rancourt: Librarians can do it with style
+- **1993	University of Toronto – Library Instruction: Strategies for Success**
+Lorna Marsden
+- **1992	University of Windsor – Skills for Change**
+Patricia Breivik
+- **1991	Concordia University – From Yesterday to Tomorrow**
+Maureen Pastine: Library user education: Where have we been? Where are we going?
+- **1990	Brock University – The Challenge of the 90’s**
+Constance Mellon: Library anxiety: Instruction librarian as therapist
+- **1989	Bishop’s University & Champlain Regional College – The Art of Library Instruction**
+Evan I. Farber: How I became ‘Bibliographic Instructor of the Year’
+- **1988	University of Waterloo & Wilfrid Laurier University – Teaching and Learning in the Present Tense**
+Stanley Benson & Sheila Laidlaw: The library’s status in undergraduate instruction: Far from the heart of things
+- **1987	McMaster University & Mohawk College – Re-Creating the Image**
+Panel with Tom Eadie, Tanis Fink; Jacelyn Foster – Immodest proposals: Alternative futures for instruction
+- **1986	John Abbott College – Connections Linking the Library Instruction Network**
+R. Smith & L. Melamed: Learning style theory: Implications for helping others learn
+- **1985	University of Western Ontario & Fanshawe College – Reaching Out: New Directions in Library Instruction**
+Moderator, George Robinson: Panel on faculty communication and the role of library instruction
+- **1984	Queen’s University & St. Lawrence College – Coping with Crisis: Strategies for Survival**
+Margot McBurney
+- **1983	Carleton University & Algonquin College – Exploring the New Technology for Library Instruction**
+Fraser Taylor: Videotex and related technologies
+- **1982	University of Toronto – A Learner-Centred Approach to Teaching**
+Liz Burge: How adults learn
+- **1981	University of Guelph – Approaching Instruction Effectively**
+Librarians in the 1980’s: Skills and Technologies
+- **1980	McGill University – Staff Development, Computerized Services, Part-time and Non-traditional User, Marketing**
+M. Scott
+- **1979	University of Waterloo – Teaching the Use of the Library: Instructional Strategies That You Always Wanted to Know But Were Never Taught**
+Panel: Instructional strategy for teaching the use of the library
+- **1978	University of Ottawa – Approaches to Library Instruction: Do You Know What Your Colleagues Are Doing?**
+Anne McQuade: Teaching Skills
+- **1977	York University – Marketing the Library, Selling the Library as Part of the Teaching Learning Process**
+- **1976	Queen’s University – The Librarian as Teacher: Planning, Teaching, and Evaluating Library Programs**
+Hugh Munby
+- **1975	McMaster University – Printed Materials**
+Monika Jensen
+- **1974	University of Toronto – Audio-Visual Techniques**
+Panel with B. Squires, L. Wise, D. Todgham, I. Melanchuk: Matching Media & Message
+- **1973	McGill University & Sir George Williams University (now Concordia University) – Communication and Learning Theory**
+- **1972	University of Western Ontario – General Overview of Orientation**
+F. Eugene Gattinger: Confessions of a Library Orientator
