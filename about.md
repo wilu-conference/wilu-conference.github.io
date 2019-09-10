@@ -56,41 +56,41 @@ Judith Peacock &; Nancy Goebel: Alice and the Carpenter present: The Time Has Co
 Rick Salutin: Thinking versus knowing: Where does information come in?
 Patricia Iannuzzi: Changing learning, changing roles: Collaboration at every angle
 Fay Durrant: Culture, context and content: Vital issues in ensuring information literacy and effective e-citizenship
-- **2006	Acadia University – Charting a Course for Instruction**      
+- **2006	Acadia University – Charting a Course for Instruction**        
 Dr. Patricia Senn-Breivik: Information literacy and lifelong learning: The time is now!
 Dr. Jeremy Shapiro & Ms. Shelley Hughes: If everything is information, is information literacy possible?
 Dr. Toni Samek: Information ethics on our global library streets
-- **2005	University of Guelph – A Kaleidoscope of Possibilities**       
+- **2005	University of Guelph – A Kaleidoscope of Possibilities**         
 Bill Johnston, Sheila Webber
-- **2004	University of Victoria – Theory Meets Reality**
+- **2004	University of Victoria – Theory Meets Reality**  
 Dane Ward: The collaborative quest for compelling information literacy instruction
 Trudi Bellardo Hahn: Connecting information literacy to the research process
-- **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**
+- **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**  
 Dr. Clara Chu: Information literacy within a multicultural critical framework
-- **2002	University of New Brunswick – River Runs: Trends in Library Instruction**
+- **2002	University of New Brunswick – River Runs: Trends in Library Instruction**  
 Dr. Heidi Julien: Miles to go before we sleep
-- **2001	Carleton Unversity – Teaching Using Learning in a Pluralist Setting**
+- **2001	Carleton Unversity – Teaching Using Learning in a Pluralist Setting**  
 Dr. Tim Pychyl: What’s our vision for teaching & learning?: Addressing systemic barriers to information literacy instruction
-- **2000	University of Western Ontario – Literacy for the Infollennium**
+- **2000	University of Western Ontario – Literacy for the Infollennium**  
 Hannelore Rader: If we teach them will they learn?
 Dr. Michael Atkinson: Teaching and learning in the 21st century
-- **1999	McGill University – Process of Integrating Library Instruction into the Curriculum in Partnership with Our Teaching Colleagues**
+- **1999	McGill University – Process of Integrating Library Instruction into the Curriculum in Partnership with Our Teaching Colleagues**  
 Carol Kuhlthau: Collaboration in the learning process
 Gloria Leckie: Fostering a pedagogy for information literacy
-- **1998	Queen’s University – Libraries at the Heart of Learning**
+- **1998	Queen’s University – Libraries at the Heart of Learning**  
 Cerise Oberman: Library liaison program
-- **1997	University of Montreal – Gateways to the Information World**
+- **1997	University of Montreal – Gateways to the Information World**  
 Thérèse Laferrière: Learning to search and create co-operatively
-- **1996	Wilfrid Laurier University – Anticipation: Library Instruction for Changing Times**
+- **1996	Wilfrid Laurier University – Anticipation: Library Instruction for Changing Times**  
 Roma Harris: Development of library instruction and its place in a changing learning environment
 - **1995	Université Laval**
-- **1994	University of Ottawa – Making Connections**
+- **1994	University of Ottawa – Making Connections**  
 Richard Rancourt: Librarians can do it with style
-- **1993	University of Toronto – Library Instruction: Strategies for Success**
+- **1993	University of Toronto – Library Instruction: Strategies for Success**  
 Lorna Marsden
-- **1992	University of Windsor – Skills for Change**
+- **1992	University of Windsor – Skills for Change**  
 Patricia Breivik
-- **1991	Concordia University – From Yesterday to Tomorrow**
+- **1991	Concordia University – From Yesterday to Tomorrow**  
 Maureen Pastine: Library user education: Where have we been? Where are we going?
 - **1990	Brock University – The Challenge of the 90’s**  
 Constance Mellon: Library anxiety: Instruction librarian as therapist
