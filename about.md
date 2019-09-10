@@ -110,21 +110,21 @@ Margot McBurney
 Fraser Taylor: Videotex and related technologies
 - **1982	University of Toronto – A Learner-Centred Approach to Teaching**
 Liz Burge: How adults learn
-- **1981	University of Guelph – Approaching Instruction Effectively**
+- **1981	University of Guelph – Approaching Instruction Effectively**  
 Librarians in the 1980’s: Skills and Technologies
-- **1980	McGill University – Staff Development, Computerized Services, Part-time and Non-traditional User, Marketing**
+- **1980	McGill University – Staff Development, Computerized Services, Part-time and Non-traditional User, Marketing**  
 M. Scott
-- **1979	University of Waterloo – Teaching the Use of the Library: Instructional Strategies That You Always Wanted to Know But Were Never Taught**
+- **1979	University of Waterloo – Teaching the Use of the Library: Instructional Strategies That You Always Wanted to Know But Were Never Taught**  
 Panel: Instructional strategy for teaching the use of the library
-- **1978	University of Ottawa – Approaches to Library Instruction: Do You Know What Your Colleagues Are Doing?**
+- **1978	University of Ottawa – Approaches to Library Instruction: Do You Know What Your Colleagues Are Doing?**  
 Anne McQuade: Teaching Skills
 - **1977	York University – Marketing the Library, Selling the Library as Part of the Teaching Learning Process**
-- **1976	Queen’s University – The Librarian as Teacher: Planning, Teaching, and Evaluating Library Programs**
+- **1976	Queen’s University – The Librarian as Teacher: Planning, Teaching, and Evaluating Library Programs**  
 Hugh Munby
-- **1975	McMaster University – Printed Materials**
+- **1975	McMaster University – Printed Materials**  
 Monika Jensen
-- **1974	University of Toronto – Audio-Visual Techniques**
+- **1974	University of Toronto – Audio-Visual Techniques**   
 Panel with B. Squires, L. Wise, D. Todgham, I. Melanchuk: Matching Media & Message
 - **1973	McGill University & Sir George Williams University (now Concordia University) – Communication and Learning Theory**
-- **1972	University of Western Ontario – General Overview of Orientation**
+- **1972	University of Western Ontario – General Overview of Orientation**  
 F. Eugene Gattinger: Confessions of a Library Orientator
