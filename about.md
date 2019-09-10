@@ -62,19 +62,19 @@ Dr. Jeremy Shapiro & Ms. Shelley Hughes: If everything is information, is inform
 Dr. Toni Samek: Information ethics on our global library streets
 - **2005	University of Guelph – A Kaleidoscope of Possibilities**         
 Bill Johnston, Sheila Webber
-- **2004	University of Victoria – Theory Meets Reality**  
+- **2004	University of Victoria – Theory Meets Reality**    
 Dane Ward: The collaborative quest for compelling information literacy instruction
 Trudi Bellardo Hahn: Connecting information literacy to the research process
-- **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**  
+- **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**    
 Dr. Clara Chu: Information literacy within a multicultural critical framework
-- **2002	University of New Brunswick – River Runs: Trends in Library Instruction**  
+- **2002	University of New Brunswick – River Runs: Trends in Library Instruction**    
 Dr. Heidi Julien: Miles to go before we sleep
-- **2001	Carleton Unversity – Teaching Using Learning in a Pluralist Setting**  
+- **2001	Carleton Unversity – Teaching Using Learning in a Pluralist Setting**    
 Dr. Tim Pychyl: What’s our vision for teaching & learning?: Addressing systemic barriers to information literacy instruction
-- **2000	University of Western Ontario – Literacy for the Infollennium**  
+- **2000	University of Western Ontario – Literacy for the Infollennium**    
 Hannelore Rader: If we teach them will they learn?
 Dr. Michael Atkinson: Teaching and learning in the 21st century
-- **1999	McGill University – Process of Integrating Library Instruction into the Curriculum in Partnership with Our Teaching Colleagues**  
+- **1999	McGill University – Process of Integrating Library Instruction into the Curriculum in Partnership with Our Teaching Colleagues**    
 Carol Kuhlthau: Collaboration in the learning process
 Gloria Leckie: Fostering a pedagogy for information literacy
 - **1998	Queen’s University – Libraries at the Heart of Learning**  
