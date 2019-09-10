@@ -104,7 +104,7 @@ Panel with Tom Eadie, Tanis Fink; Jacelyn Foster – Immodest proposals: Alterna
 R. Smith & L. Melamed: Learning style theory: Implications for helping others learn
 - **1985	University of Western Ontario & Fanshawe College – Reaching Out: New Directions in Library Instruction**  
 Moderator, George Robinson: Panel on faculty communication and the role of library instruction
-- **1984	Queen’s University & St. Lawrence College – Coping with Crisis: Strategies for Survival**
+- **1984	Queen’s University & St. Lawrence College – Coping with Crisis: Strategies for Survival**  
 Margot McBurney
 - **1983	Carleton University & Algonquin College – Exploring the New Technology for Library Instruction**  
 Fraser Taylor: Videotex and related technologies
