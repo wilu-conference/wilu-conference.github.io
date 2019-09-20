@@ -30,6 +30,8 @@ telephone: 902.xxx.xxxx
 # Build settings
 markdown: kramdown
 
+
+
 #paginate: 6
 #paginate_path: /page:num/
 
