@@ -3,7 +3,7 @@
 {% if bg.image %}
   {% capture bg_path %}{{ bg.image | relative_url }}{% endcapture %}
 {% else %}
-  {% capture bg_path %}{{ 'assets/images/bg.jpg' | relative_url }}{% endcapture %}
+  {% capture bg_path %}{{ 'assets/images/bg-wilu.png' | relative_url }}{% endcapture %}
 {% endif %}
 
 {% if bg.no_overlay %}

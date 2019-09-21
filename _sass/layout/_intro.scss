@@ -61,7 +61,7 @@
 				.logo {
 					@include vendor('transform', 'translateY(0)');
 					opacity: 1;
-					visibility: visible;
+					visibility: hidden;
 				}
 			}
 		}

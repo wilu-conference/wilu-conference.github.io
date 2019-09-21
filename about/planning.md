@@ -6,60 +6,59 @@ permalink: /about/planning/
 
 {% include about-navigation.html %}
 
-<p>Melissa Helwig<br /> 
-Dalhousie Libraries</p>
+Melissa Helwig     
+Dalhousie Libraries
 
-<p>Heather Sanderson<br />
-Patrick Power Library</p>
+Heather Sanderson    
+Patrick Power Library
 
-<p>Cindy Harrigan<br />
-Patrick Power Library</p>
+Cindy Harrigan    
+Patrick Power Library
 
-<p>Denyse Rodrigues<br />
-Mount Saint Vincent University Library</p>
+Denyse Rodrigues    
+Mount Saint Vincent University Library
 
-<p>Meg Raven<br />
-Mount Saint Vincent University Library</p>
+Meg Raven    
+Mount Saint Vincent University Library
 
-<p>Lindsay McNiff<br />
-Dalhousie Libraries</p>
+Lindsay McNiff    
+Dalhousie Libraries
 
-<p>Sandra Sawchuk<br />
-Mount Saint Vincent University Library</p>
+Sandra Sawchuk    
+Mount Saint Vincent University Library
 
-<img src="img/image.jpg" alt="gras" /></p
-<p>Shawna Murphy<br />
-Patrick Power Library</p>
+Shawna Murphy    
+Patrick Power Library
 
-<p>Anne Matthewmen<br />
-Dalhousie Libraries</p>
+Anne Matthewmen    
+Dalhousie Libraries
 
-<p>Dominic Silvio<br />
-Dalhousie Libraries</p>
+Dominic Silvio    
+Dalhousie Libraries
 
-<p>Hannah Steeves<br />
-Dalhousie Libraries</p>
+Hannah Steeves    
+Dalhousie Libraries
 
-<p>Kirsten Huhn<br />
-Dalhousie Libraries</p>
+Kirsten Huhn    
+Dalhousie Libraries
 
-<p>Melissa Rothfus<br />
-Dalhousie Libraries</p>
+Melissa Rothfus    
+Dalhousie Libraries
 
-<p>Susan Cannon<br />
-Patrick Power Library</p>
+Susan Cannon    
+Patrick Power Library
 
-<p>Corrine Gilroy<br />
-Mount Saint Vincent University Library</p>
+Corinne Gilroy       
+Mount Saint Vincent University Library
 
-<p>Shelley McKibbon<br />
-Dalhousie Libraries</p>
+Shelley McKibbon    
+Dalhousie Libraries
 
-<p>Amy Lorencz<br />
-Patrick Power Library</p>
+Amy Lorencz    
+Patrick Power Library
 
-<p>Terri Winchcombe<br />
-Patrick Power Library</p>
+Terri Winchcombe    
+Patrick Power Library
 
-<p>Michelle Paon<br />
-Dalhousie Libraries</p>
+Michelle Paon    
+Dalhousie Libraries
