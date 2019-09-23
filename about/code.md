@@ -6,7 +6,7 @@ permalink: /about/code/
 
 {% include about-navigation.html %}
 
-The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
+The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts, and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
 
 ## Conduct During the Conference
 * **[Reporting Process](#reporting-process)**
@@ -17,7 +17,7 @@ The WILU Planning Team does not tolerate harassment in any form. Harassment is u
 Please remember that harassment is subjectively experienced, and that it is not the intention behind the action that matters but the impact of the action.
 
 ### Bystander Intervention
-In the unfortunate event that WILU 20120 participants witness any racist, sexist, ableist or other discriminatory behaviour, we ask that they consider their role as bystanders and feel empowered to respond in a way that positively influences the outcome.
+In the unfortunate event that WILU 2020 participants witness any racist, sexist, ableist or other discriminatory behaviour, we ask that they consider their role as bystanders and feel empowered to respond in a way that positively influences the outcome.
 If at any time a participant feels that they have been harassed or that this code of conduct has been breached, it is important that the participant report the incident to a member of the WILU Planning Team (see the reporting section on this page).
 ### Mindful Social Media
 The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2020.
