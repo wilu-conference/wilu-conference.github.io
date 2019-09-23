@@ -12,7 +12,7 @@ The WILU Planning Team is dedicated to providing a positive event experience for
 * **[Reporting Process](#reporting-process)**
 * **[Contact Information](#contact-information)**
 
-The WILU Planning Team does not tolerate harassment in any form. Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment. It includes offensive verbal comments or non-verbal expressions related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, religious beliefs, sexual or discriminatory images in public spaces (including online), deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+The WILU Planning Team does not tolerate harassment in any form. Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment. It includes (but is not limited to) offensive verbal comments or non-verbal expressions related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, religious beliefs, sexual or discriminatory images in public spaces (including online), deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Please remember that harassment is subjectively experienced, and that it is not the intention behind the action that matters but the impact of the action.
 
