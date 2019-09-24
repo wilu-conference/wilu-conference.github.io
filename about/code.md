@@ -10,7 +10,8 @@ The WILU Planning Team is dedicated to providing a positive event experience for
 
 * **[Conduct During the Conference](#conduct-during-the-conference)**
   * [Bystander Intervention](#bystander-intervention)
-  * [Mindful Social Media](#mindful-social-media) * **[Reporting Process](#reporting-process)**
+  * [Mindful Social Media](#mindful-social-media) 
+* **[Reporting Process](#reporting-process)**
 * **[Contact Information](#contact-information)**
 
 ## Conduct During the Conference
