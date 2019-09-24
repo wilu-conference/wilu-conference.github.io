@@ -25,6 +25,7 @@ If at any time a participant feels that they have been harassed or that this cod
 ### Mindful Social Media
 The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2020.
 If you are planning on taking photos or videos while at WILU 2020, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
+
 **[Return to top](#conduct-during-the-conference)**
 
 ## Reporting Process
