@@ -9,7 +9,8 @@ permalink: /about/code/
 The WILU Planning Team is dedicated to providing a positive event experience for all participants, and expects host institutions, volunteers, attendees, and speakers to show respect and courtesy toward one another at all conference events. We value ideas, thoughts, and expression, and we appreciate new pedagogy when delivering workshops and sessions. Discriminatory language and imagery are not appropriate for any WILU event venue, keynotes, workshops, or sessions.
 
 * **[Conduct During the Conference](#conduct-during-the-conference)**
-* ***[Bystander Intervention](#bystander-intervention)***
+  * **[Bystander Intervention](#bystander-intervention)**
+  * **[Mindful Social Media](#mindful-social-media)**
 * **[Reporting Process](#reporting-process)**
 * **[Contact Information](#contact-information)**
 
