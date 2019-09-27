@@ -25,11 +25,11 @@ Please remember that harassment is subjectively experienced, and that it is not 
 
 In the unfortunate event that WILU 2020 participants witness any racist, sexist, ableist or other discriminatory behaviour, we ask that they consider their role as bystanders and feel empowered to respond in a way that positively influences the outcome.
 If at any time a participant feels that they have been harassed or that this code of conduct has been breached, it is important that the participant report the incident to a member of the WILU Planning Team (see the reporting section on this page).
+
 ### Mindful Social Media
+
 The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2020.
 If you are planning on taking photos or videos while at WILU 2020, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
-
-**[Return to top](#conduct-during-the-conference)**
 
 ## Reporting Process
 
@@ -48,7 +48,6 @@ If the report is made against a WILU Planning Team member, they will not be invo
 
 Depending on the circumstances, the WILU Planning Team may be obliged to involve Dalhousie University security and/or law enforcement. When possible, this will be left up to the discretion of the reporting participant.
 
-**[Return to top](#conduct-during-the-conference)**
 
 ## Contact Information
 * Incidents may be reported by email, by telephone or in person.
