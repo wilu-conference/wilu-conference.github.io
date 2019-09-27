@@ -14,13 +14,13 @@
 
 #wrapper > .bg {
   background-image: {% if overlay %} url("{{ 'assets/images/overlay.png' | relative_url }}"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), {% endif %} url("{{ bg_path }}");
-  background-size: {% if overlay %} auto, auto, {% endif %} 100% auto;
+  background-size: {% if overlay %} auto, auto, {% endif %} 35% auto;
   background-position: {% if overlay %} center, center, {% endif %} top center;
   background-repeat: {% if overlay %} repeat, no-repeat, {% endif %} no-repeat;
 }
 
 @media screen and (orientation: portrait) {
   #wrapper > .bg {
-    background-size: {% if overlay %} auto, auto, {% endif %} auto 175%;
+    background-size: {% if overlay %} auto, auto, {% endif %} auto 45%;
   }
 }
