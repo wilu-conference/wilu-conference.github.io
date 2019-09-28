@@ -24,41 +24,10 @@ permalink: /about/planning/
 **Lindsay McNiff**    
 *Dalhousie Libraries*
 
-**Sandra Sawchuk**    
-*Mount Saint Vincent University Library*
-
 **Shawna Murphy**    
 *Patrick Power Library*
 
 **Anne Matthewmen**    
 *Dalhousie Libraries*
 
-**Dominic Silvio**    
-*Dalhousie Libraries*
 
-**Hannah Steeves**    
-*Dalhousie Libraries*
-
-**Kirsten Huhn**    
-*Dalhousie Libraries*
-
-**Melissa Rothfus**    
-*Dalhousie Libraries*
-
-**Susan Cannon**    
-*Patrick Power Library*
-
-**Corinne Gilroy**       
-*Mount Saint Vincent University Library*
-
-**Shelley McKibbon**    
-*Dalhousie Libraries*
-
-**Amy Lorencz**    
-*Patrick Power Library*
-
-**Terri Winchcombe**    
-*Patrick Power Library*
-
-**Michelle Paon**    
-*Dalhousie Libraries*
