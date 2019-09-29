@@ -14,7 +14,11 @@ The WILU 2020 Programming Committee is now inviting proposal submissions. Consid
 
 **Lightning talk – 5-minute session.** Lightning talks are short, faster-paced presentations offering speakers the opportunity to share innovative projects or new research in a concise and engaging manner. Abstract length: 250 words
  
-**The deadline to submit a proposal is Friday, November 15, 2019.** Please use the online submission form [link] to provide your presentation title and description, abstract, and speaker information. 
+**The deadline to submit a proposal is Friday, November 15, 2019.** [Please use the online submission form] (https://forms.gle/SJ2yoJYXbCnYqpqV9 "WILU 2020 Proposal Submission Form") to provide your presentation title and description, abstract, and speaker information. 
+
+Questions or comments – Please contact <{{ site.email }}> 
+ 
+Interested in hosting WILU 2021? Learn more about submitting a short proposal to host WILU 2021 
 
 ### Theme: Visions of the Possible
 
