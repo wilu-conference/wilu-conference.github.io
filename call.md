@@ -4,7 +4,7 @@ title: Call for Proposals
 permalink: /call/
 ---
 
-##Call for Proposals 
+## Call for Proposals 
 
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary’s Universities are proud to host Canada's premier conference on information literacy and library instruction.
 
@@ -18,7 +18,7 @@ The WILU 2020 Programming Committee is now inviting proposal submissions. Consid
  
 **The deadline to submit a proposal is Friday, November 15, 2019.** Please use the online submission form [link] to provide your presentation title and description, abstract, and speaker information. 
 
-###Theme: Visions of the Possible
+### Theme: Visions of the Possible
 
 Teaching is, in part, about asking questions. Thoughtful teaching considers questions like “what is happening in this classroom?” and “what works in helping students learn?”  “Visions of the possible,” a phrase borrowed from the Scholarship of Teaching and Learning (SoTL)1, goes further and asks us to ponder “what if?” and avoid making assumptions. Visions of the possible anticipate surprise and embrace the unexpected nature of some of teaching's most important outcomes.  
 
