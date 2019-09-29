@@ -8,7 +8,7 @@ image:
 ---
 
  
-The WILU 2020 Programming Committee is now **[inviting proposal submissions]**(/call/ "Call for WILU 2020 Proposals") . Consider submitting a proposal to offer one or more of the following types of sessions:
+The WILU 2020 Programming Committee is now **[inviting proposal submissions]**(/call). Consider submitting a proposal to offer one or more of the following types of sessions:
  
 * Presentation (45-minute session)
 * Panel discussion (45-minute session)
