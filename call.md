@@ -18,7 +18,7 @@ The WILU 2020 Programming Committee is now inviting proposal submissions. Consid
 
 Questions or comments – Please contact <{{ site.email }}> 
  
-Calling all Libraries: Interested in hosting WILU 2021? **[Learn more about submitting a short proposal to host WILU 2021](/about/2021/ "Host WILU 2021")**
+<!--Calling all Libraries: Interested in hosting WILU 2021? **[Learn more about submitting a short proposal to host WILU 2021](/about/2021/ "Host WILU 2021")** -->
 
 ### WILU 2020 Theme: Visions of the Possible
 
