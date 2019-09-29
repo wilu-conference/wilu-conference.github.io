@@ -52,7 +52,7 @@ Depending on the circumstances, the WILU Planning Team may be obliged to involve
 ## Contact Information
 * Incidents may be reported by email, by telephone or in person.
 * Email: <{{ site.email }}>
-* Telephone: {{site.telephone}} Phone number will be announced at the beginning of the conference.
+* Telephone: <!-- {{site.telephone}} --> Phone number will be announced at the beginning of the conference.
 * To report anonymously, please text the phone number above.
 
 At least two WILU Planning Team members involved in the event will be designated as Code of Conduct administrators.
