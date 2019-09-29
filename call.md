@@ -18,9 +18,9 @@ The WILU 2020 Programming Committee is now inviting proposal submissions. Consid
 
 Questions or comments – Please contact <{{ site.email }}> 
  
-Interested in hosting WILU 2021? Learn more about submitting a short proposal to host WILU 2021 
+Calling all Libraries: Interested in hosting WILU 2021? [Learn more about submitting a short proposal to host WILU 2021](.../about/2021/ "Host WILU 2021")
 
-### Theme: Visions of the Possible
+### WILU 2020 Theme: Visions of the Possible
 
 Teaching is, in part, about asking questions. Thoughtful teaching considers questions like “what is happening in this classroom?” and “what works in helping students learn?”  “Visions of the possible,” a phrase borrowed from the Scholarship of Teaching and Learning (SoTL)1, goes further and asks us to ponder “what if?” and avoid making assumptions. Visions of the possible anticipate surprise and embrace the unexpected nature of some of teaching's most important outcomes.  
 
