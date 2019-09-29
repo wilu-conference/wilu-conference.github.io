@@ -6,3 +6,5 @@ description: >
   Come share your Visions of the Possible in Halifax in May 2020. 
 image: 
 ---
+ The Call for Proposals is now open! 
+  Come share your Visions of the Possible in Halifax in May 2020. 
