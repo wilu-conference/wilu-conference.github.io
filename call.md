@@ -4,8 +4,6 @@ title: Call for Proposals
 permalink: /call/
 ---
 
-## Call for Proposals 
-
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary’s Universities are proud to host Canada's premier conference on information literacy and library instruction.
 
 The WILU 2020 Programming Committee is now inviting proposal submissions. Consider submitting a proposal to offer one or more of the following types of sessions:
