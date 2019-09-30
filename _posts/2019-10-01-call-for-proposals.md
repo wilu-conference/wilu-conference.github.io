@@ -12,3 +12,6 @@ The WILU 2020 Programming Committee is now **[inviting proposal submissions](htt
 * Panel discussion (45-minute session)
 * Lightning talk (5-minute session)
 
+
+Photo credit: Tyson Waggener, Flickr.com
+
