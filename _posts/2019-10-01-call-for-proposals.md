@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Call for Proposals"
+title: Call for Proposals
 description: >
   WILU 2020 Call for Proposals is now open!
   Come share your Visions of the Possible in Halifax in May 2020. 
