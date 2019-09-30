@@ -6,7 +6,7 @@ intro:
 
 # Welcome to Halifax!
 
-WILU 2020 will be hosted by Dalhousie University, Mount Saint Vincent University, and Saint Mary's University in Halifax, NS on May 27 to 29, 2020.
+**WILU 2020 will be hosted by Dalhousie University, Mount Saint Vincent University, and Saint Mary's University in Halifax, NS on May 27 to 29, 2020.**
   
 ## WILU 2020: Visions of the Possible
 
