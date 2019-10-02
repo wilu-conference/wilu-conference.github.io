@@ -63,7 +63,7 @@ Dr. Toni Samek: Information ethics on our global library streets
 - **2005	University of Guelph – A Kaleidoscope of Possibilities**         
 Bill Johnston, Sheila Webber
 - **2004	University of Victoria – Theory Meets Reality**    
-Dane Ward: The collaborative quest for compelling information literacy instruction
+Dane Ward: The collaborative quest for compelling information literacy instruction    
 Trudi Bellardo Hahn: Connecting information literacy to the research process
 - **2003	University of Windsor – Bridging the Gap: Teaching Across Boundaries**    
 Dr. Clara Chu: Information literacy within a multicultural critical framework
