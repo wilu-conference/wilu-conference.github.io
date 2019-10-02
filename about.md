@@ -18,7 +18,7 @@ The workshop continues to exist independently from library organizations in orde
 
 - **2019 University of Winnipeg, University of Manitoba, Red River College - [Engaging Place and Practice](http://wilu2019.ca/)**  
 Jesse Stommel: Against Scaffolding: Radical Openness and Critical Digital Pedagogy  
-Sarah Dupont: Indigenization of Information Practices: Ideas to inspire, Innovate & Immplement 
+Sarah Dupont: Indigenization of Information Practices: Ideas to inspire, Innovate & Implement 
 - **2018	University of Ottawa – [Information into Action](https://wilu2018.ca/)**  
 Guylaine Beaudry: Information and digital literacies as foundation of digital strategies   
 Karen Nicholson: Information into action? Reflecting on (critical) practice
