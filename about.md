@@ -40,21 +40,21 @@ Terry Reilly: Changing the Conversation
 Michael Eisenberg: What College Students Say About Conducting Research in the Digital Age: Implications for Libraries, Librarians, and Higher Education from Project Information Literacy   
 Adria Vasil: Decoding Greenwash
 - **2011	University of Regina – [Learning Under Living Skies](http://epe.lac-bac.gc.ca/100/201/300/wilu/n40_2011/www2.uregina.ca/wilu2011/default.htm)**  
-Brian Thwaits: The Big Learn: Smart Ways to Use Your Brain
+Brian Thwaits: The Big Learn: Smart Ways to Use Your Brain     
 David Bouchard: Aboriginal Success: A Crack in the Door
 - **2010	McMaster University – Design, Play, Learn**  
-Dr. James Paul Gee: A New Paradigm for Learning in the 21st Century (And Where Libraries Fit In)
+Dr. James Paul Gee: A New Paradigm for Learning in the 21st Century (And Where Libraries Fit In)    
 Dr. Steven J. Bell: Exploring the Instruction Mystery: Designing our way past a wicked problem
 - **2009	Concordia University – [Reflections](http://epe.lac-bac.gc.ca/100/201/300/wilu/n38_2009/library.concordia.ca/wilu2009/index-en.php)**  
-Dr. John M. Budd: Where do we go now? Some research directions in information literacy
+Dr. John M. Budd: Where do we go now? Some research directions in information literacy     
 Heidi LM Jacobs & Selinda Berg: Looking outward, looking within: Reflections on information literacy praxis
 - **2008	UBC Okanagan – [Information Literacy Uncorked](http://www.library.ubc.ca/wilu2008/)**  
 John Willinsky: La Culture de l’information
-Alane Wilson: Their perceptions, our reality: The information-seeking habits and preferences of college and university students
+Alane Wilson: Their perceptions, our reality: The information-seeking habits and preferences of college and university students     
 Judith Peacock &; Nancy Goebel: Alice and the Carpenter present: The Time Has Come to Talk of Many Things: Act 1 – Your Future Through the Looking Glass
 - **2007	York University – [Teach Every Angle](http://www.yorku.ca/wilu2007/)**  
 Rick Salutin: Thinking versus knowing: Where does information come in?
-Patricia Iannuzzi: Changing learning, changing roles: Collaboration at every angle
+Patricia Iannuzzi: Changing learning, changing roles: Collaboration at every angle     
 Fay Durrant: Culture, context and content: Vital issues in ensuring information literacy and effective e-citizenship
 - **2006	Acadia University – Charting a Course for Instruction**        
 Dr. Patricia Senn-Breivik: Information literacy and lifelong learning: The time is now!
