@@ -37,7 +37,7 @@ Craig Gibson, Judy Jacobson, Megan Oakleaf
 Bonnie Stewart, Dave Cormier: MOOCs, Rhizomes, and Networks: Information Literacies in a Time of Complexity and Abundance  
 Terry Reilly: Changing the Conversation
 - **2012	Grant MacEwan University – [Vigour, Thrift and Resourcefulness](http://sites.macewan.ca/wilu2012/)**  
-Michael Eisenberg: What College Students Say About Conducting Research in the Digital Age: Implications for Libraries, Librarians, and Higher Education from Project Information Literacy
+Michael Eisenberg: What College Students Say About Conducting Research in the Digital Age: Implications for Libraries, Librarians, and Higher Education from Project Information Literacy   
 Adria Vasil: Decoding Greenwash
 - **2011	University of Regina – [Learning Under Living Skies](http://epe.lac-bac.gc.ca/100/201/300/wilu/n40_2011/www2.uregina.ca/wilu2011/default.htm)**  
 Brian Thwaits: The Big Learn: Smart Ways to Use Your Brain
