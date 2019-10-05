@@ -9,7 +9,7 @@
 title: WILU 2020
 subtitle: "Visions of the Possible"
 #email: youremailaddress@gmail.com
-#description: The Jekyll version of the Massively theme by HTML5 UP.
+description: The Workshop for Instruction in Library Use is an annual Canadian conference where delegates meet to discuss timely topics on information literacy.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wilu-conference.github.io/" # the base hostname & protocol for your site
