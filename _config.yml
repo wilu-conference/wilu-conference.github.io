@@ -30,6 +30,8 @@ telephone: 902.xxx.xxxx
 # Build settings
 markdown: kramdown
 
+plugins:
+- jekyll-sitemap
 
 
 #paginate: 6
