@@ -1,15 +1,18 @@
 <!-- Intro -->
 {% if page.layout == "home" %}
 <div id="intro">
-  <h1>{{ page.intro.title }}</h1>
-  <p>{{ page.intro.text }}</p>
-  <ul class="actions">
-    <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-  </ul>
+ <img src="/assets/images/WILU-2020-full-cmyk-reverse.png" style="width:25rem;">
 </div>
 {% endif %}
 
 <!-- Header -->
 <header id="header">
-  <a href="{{ site.url }}" class="logo">{{ site.title }}</a>
+{% if page.layout == "post"%}
+<img class="post-img" src="/assets/images/WILU-2020-no-tag-cmyk-reverse.png">
+{% endif %}
+
+{% if page.layout == "default"%}
+<img class="post-img" src="/assets/images/WILU-2020-no-tag-cmyk-reverse.png">
+{% endif %}
+
 </header>
