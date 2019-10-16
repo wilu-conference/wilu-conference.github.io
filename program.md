@@ -7,7 +7,7 @@ permalink: /program/
 
 {% include program-navigation.html %}
 
-## Opening Keynote: Kim Brooks ##
+### Opening Keynote: Kim Brooks ###
 ### Teaching as though what mattered most was our learning ###
 ![Kim Brooks](/assets/images/Keynote1KimBrooks350p.jpg "Kim Brooks")
 
@@ -15,7 +15,7 @@ permalink: /program/
 
 Kim Brooks is the Purdy Crawford Chair in Business Law, a teacher at Dalhousie’s Schulich School of Law, a 3M Fellow, and a sometimes student. 
 
-## Closing Keynote: Veronica Arellano Douglas ##
+### Closing Keynote: Veronica Arellano Douglas ###
 ### Counter-narratives in Teaching Librarianship ###
 ![Veronica Douglas](/assets/images/Keynote2VeronicaArellanoDouglas197.jpg "Veronica Douglas")
 
