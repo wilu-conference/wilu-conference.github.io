@@ -7,4 +7,4 @@ permalink: /program/
 
 {% include program-navigation.html %}
 
-## Coming Soon! ##
+## Opening Keynote: ##
