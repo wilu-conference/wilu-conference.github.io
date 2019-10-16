@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keynote Speakers
-description:
+description:>
  
 image: https://live.staticflickr.com/690/23014435723_f52d562360_z.jpg
 ---
