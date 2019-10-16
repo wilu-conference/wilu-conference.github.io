@@ -21,7 +21,8 @@ section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline; }
+  vertical-align: baseline; 
+   float: right;   }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -1565,7 +1566,8 @@ input[type="radio"]:focus + label:before {
   .image.main {
     display: block;
     margin: 4rem 0;
-    width: 100%; }
+    width: 100%;
+    height: auto;  }
     .image.main:first-child {
       margin-top: 0; }
     .image.main img {
