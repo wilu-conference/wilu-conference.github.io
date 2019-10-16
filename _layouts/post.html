@@ -28,7 +28,7 @@ is_preload: true
       {% assign entry_image = entry_image | relative_url %}
     {% endunless %}
     {% assign entry_image = entry_image | escape %}
-    <img src="{{ entry_image }}" class="image main" alt="" width="200" height="200" style="float: right;" />
+    <img src="{{ entry_image }}" class="image main" alt="" width="200" height="200" />
   {% endif %}
 
   {{ content }}
