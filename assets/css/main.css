@@ -1569,7 +1569,8 @@ input[type="radio"]:focus + label:before {
     .image.main:first-child {
       margin-top: 0; }
     .image.main img {
-      width: 100%; }
+      width: 100%; 
+      height: auto; }
   @media screen and (max-width: 736px) {
     .image.fit {
       margin: 2rem 0; }
