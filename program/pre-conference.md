@@ -30,4 +30,5 @@ permalink: /program/pre-conference/
 
 ### Teaching philosophies and dossiers for librarians: Providing evidence of effective practice ###
 ![Betsy Keating](/assets/images/PCBetsyKeating264.jpg "Betsy Keating")
+
 **Dr. Betsy Keating** is an Educational Developer with Dalhousie's Centre for Teaching and Learning. She has an MA in English and a PhD in Educational Studies with an emphasis on cognition and learning in higher education. Betsy has been a long-time advocate for instructors' development, helping them to frame and present evidence of their teaching effectiveness from multiple sources, and supporting discussions about how evidence is, and/or might be, used for both growth and promotion. 
