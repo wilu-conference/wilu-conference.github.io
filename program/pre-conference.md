@@ -6,6 +6,7 @@ permalink: /program/pre-conference/
 
 {% include program-navigation.html %}
 
+We are pleased to announce the following pre-conference workshops, to take place on May 27, 2020. Session details and registration dates coming soon. 
 
 ### Getting Started with the Scholarship of Teaching and Learning: A Workshop to Discover What is Possible ###
 
