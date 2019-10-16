@@ -9,7 +9,7 @@ permalink: /program/
 
 ## Opening Keynote: ##
 
-![Kim Brooks](/assets/images/Keynote1KimBrooks350p.jpg "Kim Brooks"){: width=150 height=100 style="float:right; padding:16px"}
+![Kim Brooks](/assets/images/Keynote1KimBrooks350p.jpg "Kim Brooks")
 ## Kim Brooks ## 
 **Title: Teaching as though what mattered most was our learning** 
 
