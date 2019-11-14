@@ -46,4 +46,4 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 Mount Saint Vincent University is located further away from the conference venue with limited public transit options, but also offers affordable accommodation.
 - [Mount Saint Vincent University summer accommodation](https://www.msvu.ca/en/home/campus-life/campus-services/conferenceservices/Accommodations/default.aspx)
 
-- [Return to top of page](#Accommodations)
+###### [Return to top of page](#Accommodations)
