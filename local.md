@@ -9,7 +9,7 @@ is_preload: true
 
 The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), in the heart of downtown Halifax, Nova Scotia. Download a [campus map](https://www.dal.ca/campus-maps/maps.html).
 
-# Accommodations
+## Accommodations
 
 **[Halifax](https://discoverhalifaxns.com/)** was named one of the Top 10 Global Destinations on the Rise in TripAdvisor's 2018 Travelers' Choice Awards. We anticipate that May 2020 will be a busy month in Halifax with many events, conferences and convocations. *Please book your accommodation early*.
 
@@ -25,7 +25,7 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
 - 50% off overnight parking in the underground, secured parking garage (regular $22 per night, based on 2019 rate; subject to change).
 - All guest rooms include complimentary high-speed internet, and local calls.
-- More information on the [Atlantica Hotel website](https://discoverhalifaxns.com/).
+- More information on the [Atlantica Hotel website](https://www.atlanticahotelhalifax.com/).
 
 
 ### Lord Nelson Hotel
