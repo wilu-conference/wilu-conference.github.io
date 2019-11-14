@@ -12,10 +12,12 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 ## Accommodations
 
 **[Halifax](https://discoverhalifaxns.com/)** was named one of the Top 10 Global Destinations on the Rise in TripAdvisor's 2018 Travelers' Choice Awards. We anticipate that May 2020 will be a busy month in Halifax with many events, conferences and convocations. *Please book your accommodation early*.
+
 <!-- **Recommended Accommodations**
 - [Atlantica Hotel](#Atlantica-Hotel)
 - [Lord Nelson Hotel](#Lord-Nelson-Hotel)
 - [Campus Accommodations](#Campus-Accommodations) -->
+
 ### Atlantica Hotel
 - Email [reservations@atlanticahalifax.com](mailto:reservations@atlanticahalifax.com); Phone 902-423-1161 or 1-888-810-7288; fax 902-423-9069. -  Please identify yourself as a participant of the WILU 2020 Conference.
 - Be sure to book by **April 25, 2020** for a special discounted rate of $159.00 a room (either 1 king bed or 2 doubles). 
