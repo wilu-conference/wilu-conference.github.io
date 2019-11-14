@@ -16,7 +16,7 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 **Recommended Accommodations**
 - [Atlantica Hotel](#Atlantica-Hotel)
 - [Lord Nelson Hotel](#Lord-Nelson-Hotel)
-- [Campus Accommodation](#Campus-Accommodation)
+- [Campus Accommodations](#Campus-Accommodations)
 
 ### Atlantica Hotel
 - Email [reservations@atlanticahalifax.com](mailto:reservations@atlanticahalifax.com); Phone 902-423-1161 or 1-888-810-7288; fax 902-423-9069. -  Please identify yourself as a participant of the WILU 2020 Conference.
@@ -45,3 +45,5 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 
 Mount Saint Vincent University is located further away from the conference venue with limited public transit options, but also offers affordable accommodation.
 - [Mount Saint Vincent University summer accommodation](https://www.msvu.ca/en/home/campus-life/campus-services/conferenceservices/Accommodations/default.aspx)
+
+- [Return to top of page](#Accommodations)
