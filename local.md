@@ -32,11 +32,10 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - Phone 902-423-5130 or 1-800-565-2020. Be sure to use the group code **27893** or the conference name for a special discounted rate of $185.00 for a Classic Guest Room. 
 - Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms. The online booking form may not always accept the promo code. It is best to call to make your reservation.
 - Group rates are for single or double occupancy. Each additional adult in the same room is an extra $30.00 (subject to change).
-- All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
+- All rates are subject to applicable taxes.
 - Parking is available for $28.00 plus tax per night for registered guests.
 - All guest rooms include complimentary high-speed wireless internet, local calls and 1-800 and calling card access.
 - More information on the [Lord Nelson Hotel website](https://lordnelsonhotel.ca/).
-
 
 ### Campus Accommodations
 Guest rooms are available at the residence buildings at Dalhousie University and Saint Mary’s University. 
