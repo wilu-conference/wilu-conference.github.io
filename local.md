@@ -48,6 +48,9 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 
 - [Saint Mary’s University summer accommodation](https://smu.ca/about/halifax-summer-accommodations.html)
 - Saint Mary’s University’s popular 2 bedroom, 2 bathroom Travel Suites will be made available until **March 1, 2020** for delegates attending WILU 2020 from May 26-30 (after this date – based on availability). Each bedroom is furnished as a study room with a captain’s-style single bed, desk, with hutch and chair. Travel Suites sleep two, and have a small common area to access each of the private bathrooms and a shared kitchenette. 
+- Nightly rate of $139.95 includes: taxes (15% HST, 2% city tax), hot breakfast, linens & towels, parking, wifi, and access to campus fitness centre (must be 16 years of age or older). 
+- Check in is 3:00 pm and check out is 11:00 am. 
+- To book your Travel Suite: call 1-888-347-5555 or email [stay@smu.ca](mailto:stay@smu.ca) 
 
 **Mount Saint Vincent University**
 - [Mount Saint Vincent University summer accommodation](https://www.msvu.ca/en/home/campus-life/campus-services/conferenceservices/Accommodations/default.aspx)
