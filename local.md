@@ -29,8 +29,8 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 
 
 ### Lord Nelson Hotel
-- Phone 902-423-5130 or 1-800-565-2020. The online booking form may not always accept the promo code. 
-- Be sure to use the promo code **27893** for a special discounted rate of $185.00 for a “classic” room.  - Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms.
+- Phone 902-423-5130 or 1-800-565-2020. Be sure to use the promo code **27893** for a special discounted rate of $185.00 for a “classic” room. 
+- Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms. The online booking form may not always accept the promo code. It is best to call to make your reservation.
 - Group rates are for single or double occupancy. Each additional adult in the same room is an extra $30.00 (subject to change).
 - All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
 - Parking is available for $28.00 plus tax per night for registered guests.
