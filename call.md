@@ -3,6 +3,7 @@ layout: post
 title: Call for Proposals
 permalink: /call/
 ---
+*Need a little more time to cross those t's and dot those i's? Don't you worry! We will accept proposals until midnight (Halifax time), Monday, November 18, 2019.*
 
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary’s Universities are proud to host Canada's premier conference on information literacy and library instruction.
 
