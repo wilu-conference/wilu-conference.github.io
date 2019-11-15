@@ -19,31 +19,39 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - [Campus Accommodations](#Campus-Accommodations) -->
 
 ### Atlantica Hotel
-- Email [reservations@atlanticahalifax.com](mailto:reservations@atlanticahalifax.com); Phone 902-423-1161 or 1-888-810-7288. Please identify yourself as a participant of the WILU 2020 Conference.
+- Book now: [https://reservations.travelclick.com/72818?groupID=440722](https://reservations.travelclick.com/72818?groupID=440722) or  email: reservations@atlanticahalifax.com, or phone 902-423-1161 or 1-888-810-7288. Please identify yourself as a participant of the WILU 2020 Conference.
 - Be sure to book by **April 25, 2020** for a special discounted rate of $159.00 a room (either 1 king bed or 2 doubles). 
-- Group rates are for single or double occupancy. Each additional adult in the same room is an extra $15.00. Maximum of four people.
+- Group rates are for single or double occupancy. Each additional person in the same room is an extra $15.00 per room/per night. Maximum of four people.
 - All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
-- 50% off overnight parking in the underground, secured parking garage (regular $22 per night, based on 2019 rate; subject to change).
-- All guest rooms include complimentary high-speed internet, and local calls.
+- 50% off overnight parking in the underground, secured parking garage based on availability (regular $22 per night, based on 2019 rate; subject to change).
+- All guest rooms include complimentary internet, and local calls.
 - More information on the [Atlantica Hotel website](https://www.atlanticahotelhalifax.com/).
 
 
 ### Lord Nelson Hotel
-- Phone 902-423-5130 or 1-800-565-2020. Be sure to use the promo code **27893** for a special discounted rate of $185.00 for a “classic” room. 
+- Phone 902-423-5130 or 1-800-565-2020. Be sure to use the group code **27893** or the conference name for a special discounted rate of $185.00 for a Classic Guest Room. 
 - Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms. The online booking form may not always accept the promo code. It is best to call to make your reservation.
 - Group rates are for single or double occupancy. Each additional adult in the same room is an extra $30.00 (subject to change).
 - All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
 - Parking is available for $28.00 plus tax per night for registered guests.
-- All guest rooms include complimentary high-speed internet, local calls and 1-800 and calling card access.
+- All guest rooms include complimentary high-speed wireless internet, local calls and 1-800 and calling card access.
 - More information on the [Lord Nelson Hotel website](https://lordnelsonhotel.ca/).
 
 
 ### Campus Accommodations
 Guest rooms are available at the residence buildings at Dalhousie University and Saint Mary’s University. 
-- [Dalhousie University summer accommodation](https://www.dal.ca/dept/summer-accommodations/halifax-accommodations/summer-students.html)
-- [Saint Mary’s University summer accommodation](https://smu.ca/about/halifax-summer-accommodations.html)
 
-Mount Saint Vincent University is located further away from the conference venue with limited public transit options, but also offers affordable accommodation.
+**Dalhousie University**
+
+- [Dalhousie University summer accommodation](https://www.dal.ca/dept/summer-accommodations/halifax-accommodations/summer-students.html)
+
+**Saint Mary's University**
+
+- [Saint Mary’s University summer accommodation](https://smu.ca/about/halifax-summer-accommodations.html)
+- Saint Mary’s University’s popular 2 bedroom, 2 bathroom Travel Suites will be made available until **March 1, 2020** for delegates attending WILU 2020 from May 26-30 (after this date – based on availability). Each bedroom is furnished as a study room with a captain’s-style single bed, desk, with hutch and chair. Travel Suites sleep two, and have a small common area to access each of the private bathrooms and a shared kitchenette. 
+
+**Mount Saint Vincent University**
 - [Mount Saint Vincent University summer accommodation](https://www.msvu.ca/en/home/campus-life/campus-services/conferenceservices/Accommodations/default.aspx)
+- Mount Saint Vincent University is located further away from the conference venue with limited public transit options, but also offers affordable accommodation.
 
  <!-- ###### [Return to top of page](#Accommodations) -->
