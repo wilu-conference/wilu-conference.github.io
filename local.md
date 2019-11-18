@@ -19,7 +19,7 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - [Campus Accommodations](#Campus-Accommodations) -->
 
 ### Atlantica Hotel
-- Book now: [https://reservations.travelclick.com/72818?groupID=440722](https://reservations.travelclick.com/72818?groupID=440722) or  email: reservations@atlanticahalifax.com, or phone 902-423-1161 or 1-888-810-7288. Please identify yourself as a participant of the WILU 2020 Conference.
+- Book now: [https://reservations.travelclick.com/72818?groupID=440722](https://reservations.travelclick.com/72818?groupID=440722) or  email: [reservations@atlanticahalifax.com](reservations@atlanticahalifax.com), or phone 902-423-1161 or 1-888-810-7288. Please identify yourself as a participant of the WILU 2020 Conference.
 - Be sure to book by **April 25, 2020** for a special discounted rate of $159.00 a room (either 1 king bed or 2 doubles). 
 - Group rates are for single or double occupancy. Each additional person in the same room is an extra $15.00 per room/per night. Maximum of four people.
 - All rates are subject to applicable taxes (2% Marketing Levy & 15% HST).
@@ -29,12 +29,13 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 
 
 ### Lord Nelson Hotel
-- Phone 902-423-5130 or 1-800-565-2020. Be sure to use the group code **27893** or the conference name for a special discounted rate of $185.00 for a Classic Guest Room. 
-- Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms. The online booking form may not always accept the promo code. It is best to call to make your reservation.
-- Group rates are for single or double occupancy. Each additional adult in the same room is an extra $30.00 (subject to change).
-- All rates are subject to applicable taxes.
-- Parking is available for $28.00 plus tax per night for registered guests.
-- All guest rooms include complimentary high-speed wireless internet, local calls and 1-800 and calling card access.
+-	Phone 902-423-5130 or 1-800-565-2020, or email [ask@lordnelsonhotel.com](mailto:ask@lordnelsonhotel.com), or use the "live chat" feature located on the bottom right corner of the hotel website. 
+-	Be sure to quote the group code 27893 or the conference name (WILU) for a special discounted rate of $185.00 for a Classic Guest Room. Guests must contact the hotel directly and quote the group code to the reservations agent to receive the discounted rate. Typing the number into the online booking form will not work.
+-	Please note that the hotel is not holding any rooms. The rate is subject to the availability of Classic & Petite Guestrooms. 
+-	Group rates are for single or double occupancy. Each additional adult in the same room is an extra $30.00 (subject to change).
+-	All rates are subject to applicable taxes (2% market levy & 15% HST)
+-	Parking is available for $28.00 plus tax per night for registered guests.
+-	All guest rooms include complimentary high-speed wireless internet, local calls and 1-800 and calling card access.
 - More information on the [Lord Nelson Hotel website](https://lordnelsonhotel.ca/).
 
 ### Campus Accommodations
