@@ -6,7 +6,7 @@ permalink: /call/
 
 <!-- ### The call for proposals is now closed. -->
 
-<!-- **Thank you to everyone who submitted** - >
+<!-- **Thank you to everyone who submitted** -->
 
 *Need a little more time to cross those t's and dot those i's? Don't you worry! We will accept proposals until midnight (Halifax time), Monday, November 18, 2019.*
 
