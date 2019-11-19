@@ -4,11 +4,11 @@ title: Call for Proposals
 permalink: /call/
 ---
 
-<!-- ### The call for proposals is now closed. -->
+ ### The call for proposals is now closed. 
 
-<!-- **Thank you to everyone who submitted** -->
+**Thank you to everyone who submitted** 
 
-*Need a little more time to cross those t's and dot those i's? Don't you worry! We will accept proposals until midnight (Halifax time), Monday, November 18, 2019.*
+<!-- *Need a little more time to cross those t's and dot those i's? Don't you worry! We will accept proposals until midnight (Halifax time), Monday, November 18, 2019.*
 
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary’s Universities are proud to host Canada's premier conference on information literacy and library instruction.
 
@@ -22,7 +22,7 @@ The WILU 2020 Programming Committee is now inviting proposal submissions. Consid
  
 **The deadline to submit a proposal is Friday, November 15, 2019.** - *Need a little more time to cross those t's and dot those i's? Don't you worry! We will accept proposals until midnight (Halifax time), Monday, November 18, 2019.*
 
-Please use the **[online submission form](https://forms.gle/SJ2yoJYXbCnYqpqV9 "WILU 2020 Proposal Submission Form")** to provide your presentation title and description, abstract, and speaker information. 
+Please use the **[online submission form](https://forms.gle/SJ2yoJYXbCnYqpqV9 "WILU 2020 Proposal Submission Form")** to provide your presentation title and description, abstract, and speaker information. -->
 
 Questions or comments – Please contact <{{ site.email }}> 
  
