@@ -4,7 +4,7 @@ title: Call for Proposals
 permalink: /call/
 ---
 
- ## The call for proposals is now closed. 
+ ##The call for proposals is now closed. 
 
 **Thank you to everyone who submitted** 
 
