@@ -2,7 +2,7 @@
 layout: post
 title: Call for Proposals
 description: >
-  WILU 2020 Call for Proposals is now open!
+  WILU 2020 Call for Proposals closed on November 18, 2019
   Come share your Visions of the Possible in Halifax in May 2020. 
 image: https://live.staticflickr.com/7169/6770077299_72df4b9525_c.jpg
 ---
