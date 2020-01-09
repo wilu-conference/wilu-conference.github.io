@@ -43,7 +43,10 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 
 **Dalhousie University**
 
-- [Dalhousie University summer accommodation](https://www.dal.ca/dept/summer-accommodations/halifax-accommodations/summer-students.html)
+- To make a reservation to stay on campus, please visit our website:  [stay.dal.ca](stay.dal.ca).  
+- All conference delegates should use the promo code:  WILU20 to book accommodations within the conference block.  
+- Please note that any student must present a valid student ID upon arrival in order to receive a discounted student rate.    
+- If you require any assistance, please contact us by phone:  (888)271-9222 or by email at: [stay@dal.ca](mailto:stay@dal.ca) and one of our associates would be happy to help.
 
 **Saint Mary's University**
 
