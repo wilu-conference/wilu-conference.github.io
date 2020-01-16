@@ -43,8 +43,8 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 
 **Dalhousie University**
 
-- To make a reservation to stay on campus, please visit our website:  [stay.dal.ca](http://stay.dal.ca).  
-- All conference delegates should use the promo code:  WILU20 to book accommodations within the conference block.  
+- To make a reservation to stay on campus, please visit our website:  [stay.dal.ca](http://stay.dal.ca).  A working reservation code will be posted soon!
+<!-- - All conference delegates should use the promo code:  WILU20 to book accommodations within the conference block. --> 
 - Please note that any student must present a valid student ID upon arrival in order to receive a discounted student rate.    
 - If you require any assistance, please contact us by phone:  (888)271-9222 or by email at: [stay@dal.ca](mailto:stay@dal.ca) and one of our associates would be happy to help.
 
