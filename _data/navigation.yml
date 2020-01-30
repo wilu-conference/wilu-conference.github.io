@@ -2,7 +2,9 @@ main:
   - url: "/"
     title: "WILU 2020"
   - url: "/about/"
-    title: "About"  
+    title: "About"
+  - url: "/register/"
+    title: "Register"
   - url: "/program/"
     title: "Program"
  # - url: "/call/"
@@ -16,28 +18,28 @@ include_social: true
 
 about:
   - url: "/about/"
-    title: "About"  
+    title: "About"
   - url: "/about/planning/"
     title: "Planning Team"
   - url: "/about/code/"
-    title: "Code of Conduct" 
+    title: "Code of Conduct"
   - url: "/about/2021/"
-    title: "WILU 2021"   
-    
-program: 
+    title: "WILU 2021"
+
+program:
   - url: "/program/"
     title: "Keynotes"
   - url: "/program/pre-conference/"
-    title: "Pre-Conference" 
-  - url: "/program/schedule/"  
+    title: "Pre-Conference"
+  - url: "/program/schedule/"
     title: "Schedule"
   - url: "/program/archive/"
     title: "Archive"
-    
+
 local:
   - url: "/local/"
-    title: "Local Arrangements" 
+    title: "Local Arrangements"
   - url: "/local/attractions/"
     title: "Attractions"
   - url: "/local/transportation/"
-    title: "Getting Around" 
+    title: "Getting Around"

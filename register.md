@@ -3,4 +3,6 @@ layout: post
 title: Register
 permalink: /register/
 ---
-**Coming Soon!**
+**Registration will open on February 18th**
+
+Check back soon for conference rates.
