@@ -7,7 +7,7 @@ is_preload: true
 
 {% include local-navigation.html %}
 
-The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), in the heart of downtown Halifax, Nova Scotia. Download a [campus map](https://www.dal.ca/campus-maps/maps.html).
+The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), in the heart of downtown Halifax, Nova Scotia. Conference sessions will be held in the Marion McCain Arts & Social Sciences Building as well as the Kenneth C. Rowe Management Building. Download a [campus map](https://www.dal.ca/campus-maps/maps.html).
 
 ## Accommodations
 
@@ -44,7 +44,7 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 **Dalhousie University**
 
 - To make a reservation to stay on campus, please visit our website:  [stay.dal.ca](http://stay.dal.ca). All conference delegates should use the promo code:  WILU20 to book accommodations within the conference block.
-- LeMarchant Place (individual temperature settings available), Risley Hall, and Howe Hall are all within steps of the conference buildings (McCain Arts & Social Sciences Building & Rowe Building). While Gerard Hall is 1.7 km from the conference buildings. 
+- LeMarchant Place (individual temperature settings available), Risley Hall, and Howe Hall are all within steps of the conference buildings. While Gerard Hall is 1.7 km from the conference buildings. 
 - Please note that any student must present a valid student ID upon arrival in order to receive a discounted student rate.    
 - If you require any assistance, please contact us by phone:  (888)271-9222 or by email at: [stay@dal.ca](mailto:stay@dal.ca) and one of our associates would be happy to help.
 
