@@ -1572,7 +1572,7 @@ input[type="radio"]:focus + label:before {
     .image.main:first-child {
       margin-top: 0; }
     .image.main img {
-      width: 100%; 
+      width: 100%;
       height: auto; }
   @media screen and (max-width: 736px) {
     .image.fit {
@@ -1811,8 +1811,8 @@ header.major .date:before, header.major .date:after {
   overflow-x: auto; }
 
 table {
-  margin: 0 0 2rem 0;
-  width: 100%; }
+  margin: 0 0 2rem 2rem;
+  width: 80%; }
   table tbody tr {
     border: solid 1px;
     border-left: 0;
@@ -2075,7 +2075,7 @@ table.alt tbody tr td {
       transform: translateY(2rem);
       opacity: 0;
      /* visibility: hidden;*/ }
- 
+
   body.is-preload #intro {
     -moz-transform: translateY(2rem);
     -webkit-transform: translateY(2rem);
@@ -2182,7 +2182,7 @@ table.alt tbody tr td {
       color: #18bfef !important; }
   @media screen and (max-width: 980px) {
     #header {
-      
+
        } }
   @media screen and (max-width: 736px) {
     #header {
