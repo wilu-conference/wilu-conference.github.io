@@ -32,7 +32,7 @@ program:
   - url: "/program/keynotes/"
     title: "Keynotes"
   - url: "/program/workshops/"
-    title: "Pre-Conference Workshops"
+    title: "Workshops"
   - url: "/program/archive/"
     title: "Archive"
 
