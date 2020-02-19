@@ -5,7 +5,7 @@ main:
     title: "About"
   - url: "/register/"
     title: "Register"
-  - url: "/program/"
+  - url: "/program/keynotes/"
     title: "Program"
  # - url: "/call/"
  #   title: "Call for Proposals"
@@ -28,11 +28,11 @@ about:
 
 program:
   - url: "/program/"
+    title: "Program"
+  - url: "/program/keynotes/"
     title: "Keynotes"
-  - url: "/program/pre-conference/"
-    title: "Pre-Conference"
-  - url: "/program/schedule/"
-    title: "Schedule"
+  - url: "/program/workshops/"
+    title: "Pre-Conference Workshops"
   - url: "/program/archive/"
     title: "Archive"
 

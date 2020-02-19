@@ -1,14 +1,19 @@
 ---
 layout: post
 title: Pre-Conference Workshops
-permalink: /program/pre-conference/
+permalink: /program/workshops/
 ---
 
 {% include program-navigation.html %}
 
-We are pleased to announce the following pre-conference workshops, to take place on May 27, 2020.
+We are pleased to announce the following pre-conference workshops, to take place concurrently on May 27, 2020.
 
-### <a name="workshop-1"></a>GETTING STARTED WITH THE SCHOLARSHIP OF TEACHING AND LEARNING: A WORKSHOP TO DISCOVER WHAT IS POSSIBLE
+> 1. [Getting Started with the Scholarship of Teaching and Learning: A Workshop to Discover What is Possible](/program/workshops#workshop-1)
+> 2. [Sparking Order: The (Library) Life-Changing Power of Planning, Reorganizing and Designing Your Subject Guides and Overall Web Presence](/program/workshops#workshop-2)
+> 3. [Teaching Philosophies and Dossiers for Librarians: Providing Evidence of Effective Practice](/program/workshops#workshop-3)
+
+
+### <a name="workshop-1"></a>WORKSHOP 1 | GETTING STARTED WITH THE SCHOLARSHIP OF TEACHING AND LEARNING: A WORKSHOP TO DISCOVER WHAT IS POSSIBLE
 ![Lauren Hays](/assets/images/PCLaurenHays264.jpg "Lauren Hays")
 #### Lauren Hays
 One of the best ways to inform teaching and learning is by asking questions, and the Scholarship of Teaching and Learning (SoTL) helps instructors do just that. SoTL is a movement in higher education to study teaching and learning in order to improve both. SoTL continues to grow internationally and has recently gained momentum in librarianship. As librarians and information literacy professionals, there is much we can learn from engaging with SoTL. We also have much to contribute. The goals of this pre-conference are for attendees to:
@@ -21,7 +26,7 @@ One of the best ways to inform teaching and learning is by asking questions, and
 
 Through active learning exercises, attendees will use a project planning toolkit to create an action plan for a SoTL project. Workshop attendees will engage in discussions that focus on their local teaching context and how that context impacts the SoTL work they wish to do. With a focus on asking good questions, attendees will consider teaching and learning phenomena they are curious about and what SoTL questions they want to ask to help them gain insight into their own teaching and their students’ learning. Attendees will also identify potential collaborators, brainstorm ideas for a research design, and determine how best to engage with SoTL. Attendees will leave the session with concrete ideas for moving forward with their own SoTL project. *[(About Lauren Hays.)](/program/speakers#workshop-1)*
 
-### <a name="workshop-2"></a>SPARKING ORDER: THE (LIBRARY) LIFE-CHANGING POWER OF PLANNING, REORGANIZING AND DESIGNING YOUR SUBJECT GUIDES AND OVERALL WEB PRESENCE  
+### <a name="workshop-2"></a>WORKSHOP 2 | SPARKING ORDER: THE (LIBRARY) LIFE-CHANGING POWER OF PLANNING, REORGANIZING AND DESIGNING YOUR SUBJECT GUIDES AND OVERALL WEB PRESENCE  
 ![Katie McLean](/assets/images/PCkatie-mclean264.jpg "Katie McLean")
 #### Katie McLean
 Librarians rely on building subject guides to meet the diverse information and learning needs of our patrons - from students looking to access content for an assignment, to researchers looking for assistance with publishing, to professionals and faculty looking for a place to bring together and share current knowledge. While our readiness to create has resulted in the customization and responsiveness our users crave, it’s easy to end up with a bunch of cluttered and outdated web content.
@@ -35,7 +40,7 @@ In this session we’ll discuss the importance of using a cohesive style and sys
 
 Participants will leave this session ready to advocate for system-level coordination of their library’s subject guides and with the tools needed to start redesigning individual guides. *[(About Katie McLean.)](/program/speakers#workshop-2)*
 
-### <a name="workshop-3"></a>Teaching Philosophies and Dossiers for Librarians: Providing Evidence of Effective Practice
+### <a name="workshop-3"></a>WORKSHOP 3 | Teaching Philosophies and Dossiers for Librarians: Providing Evidence of Effective Practice
 ![Betsy Keating](/assets/images/PCBetsyKeating264.jpg "Betsy Keating")
 #### Betsy Keating  
 Librarians are educators. Yet many administrators are unaware of—or underrate—librarians’ instructional practice, their skills, and their ongoing professional development as educators. Teaching Dossiers and Teaching Philosophies tell the story of teaching accomplishments and offer insights and evidence about instructional practice in a way that CVs cannot. They are widely used for hiring and promotion in colleges and universities, but until recently, librarians have not been called upon to produce teaching dossiers. Dossiers and philosophy statements are valuable documents for administrators and selection committees, but the experience of writing and curating these documents is equally valuable for the librarians who create them.
