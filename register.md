@@ -3,7 +3,7 @@ layout: post
 title: Register
 permalink: /register/
 ---
-**Registration will open on February 18th**
+**Registration will open on February 21st**
 
 **Pre-conference workshop**: Wednesday, May 27 - 9 am to noon  
 **Conference**: Wednesday, May 27 1 pm - Friday, May 29 noon  
