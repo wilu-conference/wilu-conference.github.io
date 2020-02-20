@@ -6,13 +6,11 @@ permalink: /program/workshops/
 
 {% include program-navigation.html %}
 
-We are pleased to announce the following pre-conference workshops, to take place concurrently on May 27, 2020, 9:00 a.m. to 12 noon. The cost is $50 plus tax.
+We are pleased to announce the following pre-conference workshops, to take place concurrently on May 27, 2020, 9:00 a.m. to 12 noon. The cost is $50 plus tax. If you wish to attend one of the pre-conference workshops, you must also register for the full conference.  
 
 > 1. [Getting Started with the Scholarship of Teaching and Learning: A Workshop to Discover What is Possible](/program/workshops#workshop-1)
 > 2. [Sparking Order: The (Library) Life-Changing Power of Planning, Reorganizing and Designing Your Subject Guides and Overall Web Presence](/program/workshops#workshop-2)
 > 3. [Teaching Philosophies and Dossiers for Librarians: Providing Evidence of Effective Practice](/program/workshops#workshop-3)
-
-If you wish to attend one of the pre-conference workshops, you must also register for the full conference.  
 
 ### <a name="workshop-1"></a>WORKSHOP 1 | GETTING STARTED WITH THE SCHOLARSHIP OF TEACHING AND LEARNING: A WORKSHOP TO DISCOVER WHAT IS POSSIBLE
 ![Lauren Hays](/assets/images/PCLaurenHays264.jpg "Lauren Hays")
