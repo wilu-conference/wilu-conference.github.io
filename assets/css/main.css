@@ -554,16 +554,17 @@ header.major .date:before, header.major .date:after {
 
 table {
   margin: 0 0 2rem 2rem;
-  width: 80%; }
+  width: 90%; }
   table tbody tr {
     border: solid 1px;
     border-left: 0;
     border-right: 0; }
   table td {
-    padding: 0.75rem 0.75rem; }
+    padding: 0.75rem 0.75rem;
+    font-size: 0.9rem; }
   table th {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 900;
     letter-spacing: 0.075em;
     line-height: 1.5;
