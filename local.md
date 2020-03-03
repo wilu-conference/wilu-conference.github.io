@@ -26,6 +26,7 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - 50% off overnight parking in the underground, secured parking garage based on availability (regular $22 per night, based on 2019 rate; subject to change).
 - All guest rooms include complimentary internet, and local calls.
 - More information on the [Atlantica Hotel website](https://www.atlanticahotelhalifax.com/).
+-- Please be advised: The Atlantica Hotel is undergoing [renovations](https://www.atlanticahotelhalifax.com/hotel-renovations-2020/), which could result in noise between the hours of 8 am and 6 pm. Please contact Reservations if you have questions or concerns.
 
 
 ### Lord Nelson Hotel
