@@ -36,9 +36,9 @@ include_social: true
 #  - url: "/program/archive/"
 #    title: "Archive"
 
-local:
-  - url: "/local/"
-    title: "Local Arrangements"
+#local:
+#  - url: "/local/"
+#    title: "Local Arrangements"
 #  - url: "/local/attractions/"
 #    title: "Attractions"
 #  - url: "/local/transportation/"
