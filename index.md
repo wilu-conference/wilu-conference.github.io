@@ -3,6 +3,7 @@ layout: home
 intro:
   
 ---
+# WILU 2020 UPDATE
 
 We regret to inform you that WILU is being postponed until spring 2021 in Halifax because of the serious health risks posed by the COVID-19 pandemic. We very much appreciate your patience while we work through the logistics and implications of this decision; however, there are a few things we can let you know right away:
  
