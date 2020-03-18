@@ -22,6 +22,7 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 - [Lord Nelson Hotel](#Lord-Nelson-Hotel)
 - [Campus Accommodations](#Campus-Accommodations) -->
 
+<!--
 ### Atlantica Hotel
 - Book now: [https://reservations.travelclick.com/72818?groupID=440722](https://reservations.travelclick.com/72818?groupID=440722) or  email: [reservations@atlanticahalifax.com](reservations@atlanticahalifax.com), or phone 902-423-1161 or 1-888-810-7288. Please identify yourself as a participant of the WILU 2020 Conference.
 - Be sure to book by **April 25, 2020** for a special discounted rate of $159.00 a room (either 1 king bed or 2 doubles). 
