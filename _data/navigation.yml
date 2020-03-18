@@ -2,17 +2,17 @@ main:
   - url: "/"
     title: "WILU 2020"
  # - url: "/about/"
-    title: "About"
+ #   title: "About"
  # - url: "/register/"
-    title: "Register"
+ #   title: "Register"
  # - url: "/program/keynotes/"
-    title: "Program"
+  #  title: "Program"
  # - url: "/call/"
  #   title: "Call for Proposals"
   - url: "/local/"
     title: "Local Info"
  # - url: "/news/"
-    title: "News"
+ #   title: "News"
 
 include_social: true
 
