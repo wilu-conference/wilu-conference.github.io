@@ -15,12 +15,12 @@ The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), 
 
 ## Accommodations
 
-**[Halifax](https://discoverhalifaxns.com/)** was named one of the Top 10 Global Destinations on the Rise in TripAdvisor's 2018 Travelers' Choice Awards. We anticipate that May 2020 will be a busy month in Halifax with many events, conferences and convocations. *Please book your accommodation early*.
+**[Halifax](https://discoverhalifaxns.com/)** was named one of the Top 10 Global Destinations on the Rise in TripAdvisor's 2018 Travelers' Choice Awards. We anticipate that May 2020 will be a busy month in Halifax with many events, conferences and convocations. *Please book your accommodation early*. -->
 
-<!-- **Recommended Accommodations**
+ **Accomodations we recommended**
 - [Atlantica Hotel](#Atlantica-Hotel)
 - [Lord Nelson Hotel](#Lord-Nelson-Hotel)
-- [Campus Accommodations](#Campus-Accommodations) -->
+- [Campus Accommodations](#Campus-Accommodations) 
 
 <!--
 ### Atlantica Hotel
