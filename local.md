@@ -5,6 +5,10 @@ permalink: /local/
 is_preload: true
 ---
 
+**Please don’t forget to cancel your travel and accommodation bookings.**
+
+<!--
+
 {% include local-navigation.html %}
 
 The WILU 2020 Conference will be held at [Dalhousie University](http://dal.ca), in the heart of downtown Halifax, Nova Scotia. Conference sessions will be held in the Marion McCain Arts & Social Sciences Building as well as the Kenneth C. Rowe Management Building. Download a [campus map](https://www.dal.ca/campus-maps/maps.html).
@@ -60,5 +64,7 @@ Guest rooms are available at the residence buildings at Dalhousie University and
 **Mount Saint Vincent University**
 - [Mount Saint Vincent University summer accommodation](https://www.msvu.ca/en/home/campus-life/campus-services/conferenceservices/Accommodations/default.aspx)
 - Mount Saint Vincent University is located further away from the conference venue with limited public transit options, but also offers affordable accommodation.
+
+-->
 
  <!-- ###### [Return to top of page](#Accommodations) -->
