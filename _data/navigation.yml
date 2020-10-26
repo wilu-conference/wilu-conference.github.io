@@ -9,8 +9,8 @@ main:
   #  title: "Program"
  # - url: "/call/"
  #   title: "Call for Proposals"
-  - url: "/local/"
-    title: "Local Info"
+#  - url: "/local/"
+#    title: "Local Info"
  # - url: "/news/"
  #   title: "News"
 
