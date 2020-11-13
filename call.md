@@ -7,7 +7,7 @@ permalink: /call/
 ## WILU 2021: Visions of the Possible  
 >(Halifax-K’jipuktuk NS-based, online June 17-25, 2021)
 
-### Turning Up the Volume: An updated call for presentations from Black, Indigenous, and People of Colour (BIPOC) colleagues. 
+### Turning Up the Volume: An updated call for presentations from Black, Indigenous, and People of Colour (BIPOC) colleagues.
 
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary’s Universities are looking forward to hosting **WILU 2021: Visions of the Possible**. This is Canada's premier (and first-time online) conference on information literacy and library instruction. We had a successful call last year, but transitioning to an online model has provided us an opportunity to do further planning.
 
@@ -15,7 +15,10 @@ Academic institutions, including libraries, continue to fall short with represen
 
 The WILU 2021 Programming Committee is now inviting proposal submissions from BIPOC library professionals. Speakers may report on original research, completed projects, instructional programs, innovative projects, or other information literacy initiatives. Discussions of pedagogy, learning theory, and educational philosophy are also acceptable. Participants may represent diverse experiences or points of view. Please consider submitting a proposal for one of the following types of online sessions:
 
-**Review of proposals will begin on December 18, 2021**. Please use the online submission form to provide your presentation title and description, abstract and speaker information.
+- Presentation (30-minute session)
+- Panel discussion (45-minute session)
+
+**Review of proposals will begin on December 18, 2021**. Please use the [online submission form](https://docs.google.com/forms/d/e/1FAIpQLSfjIQk5AKI7emJ3GI0KY2gORZgK_6ovkhS1J2wqY0Ma_I6yAQ/viewform) to provide your presentation title and description, abstract and speaker information.
 
 Questions or comments? Please contact <{{ site.email }}>
 
