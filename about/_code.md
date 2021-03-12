@@ -23,13 +23,13 @@ Please remember that harassment is subjectively experienced, and that it is not 
 
 ### Bystander Intervention
 
-In the unfortunate event that WILU 2020 participants witness any racist, sexist, ableist or other discriminatory behaviour, we ask that they consider their role as bystanders and feel empowered to respond in a way that positively influences the outcome.
+In the unfortunate event that WILU 2021 participants witness any racist, sexist, ableist or other discriminatory behaviour, we ask that they consider their role as bystanders and feel empowered to respond in a way that positively influences the outcome.
 If at any time a participant feels that they have been harassed or that this code of conduct has been breached, it is important that the participant report the incident to a member of the WILU Planning Team (see the reporting section on this page).
 
 ### Mindful Social Media
 
-The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2020.
-If you are planning on taking photos or videos while at WILU 2020, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
+The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2021.
+If you are planning on taking photos, screen captures, or videos while at WILU 2021, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
 
 ## Reporting Process
 
@@ -46,17 +46,15 @@ All measures will be taken to protect the identity of the reporting participant 
 
 If the report is made against a WILU Planning Team member, they will not be involved in the resolution.
 
-Depending on the circumstances, the WILU Planning Team may be obliged to involve Dalhousie University security and/or law enforcement. When possible, this will be left up to the discretion of the reporting participant.
+Depending on the circumstances, the WILU Planning Team may be obliged to involve law enforcement. When possible, this will be left up to the discretion of the reporting participant.
 
 
 ## Contact Information
-* Incidents may be reported by email, by telephone or in person.
+* Incidents may be reported by email or message Code of Conduct attendee in the online conference system.
 * Email: <{{ site.email }}>
-* Telephone: <!-- {{site.telephone}} --> Phone number will be announced at the beginning of the conference.
-* To report anonymously, please text the phone number above.
 
 At least two WILU Planning Team members involved in the event will be designated as Code of Conduct administrators.
-The WILU 2020 Conference Code of Conduct administrators are Melissa Helwig and Denyse Rodrigues.
+The WILU 2021 Conference Code of Conduct administrators are Melissa Helwig and Denyse Rodrigues.
 
 Adapted from the [Ontario Library Association Code of Conduct for OLA Events](http://www.olasuperconference.ca/about/code-of-conduct/) , [the Canadian Alliance of Student Associations’ Code of Conduct](https://www.casa-acae.com/code_of_conduct) and the [Munin Conference on Scholarly Publishing Policy on Sexual Harassment](http://site.uit.no/muninconf/?page_id=1358)
 
