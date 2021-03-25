@@ -5,7 +5,7 @@ intro:
 ---
 The Libraries at Dalhousie, Mount Saint Vincent, and Saint Mary's Universities are looking forward to hosting **WILU 2021: Visions of the Possible**. This is Canada's premier (and first-time online) conference on information literacy and library instruction.
 
-We are going online **June 21-25, 2021**. Stay tuned.
+We are going online **June 21-25, 2021, noon - 5:00 p.m. (ADT)**. Stay tuned.
 
 ## WILU 2021: Visions of the Possible
 
