@@ -1,14 +1,14 @@
 main:
   - url: "/"
     title: "WILU 2021"
- # - url: "/about/"
- #   title: "About"
+  - url: "/about/"
+    title: "About"
  # - url: "/register/"
  #   title: "Register"
- # - url: "/program/keynotes/"
-  #  title: "Program"
-  - url: "/call/"
-    title: "Call for Proposals"
+  - url: "/program/keynotes/"
+    title: "Program"
+  #- url: "/call/"
+  #  title: "Call for Proposals"
 #  - url: "/local/"
 #    title: "Local Info"
  # - url: "/news/"
@@ -16,21 +16,23 @@ main:
 
 include_social: true
 
-#about:
- # - url: "/about/"
- #   title: "About"
- # - url: "/about/planning/"
- #   title: "Planning Team"
+about:
+  - url: "/about/"
+    title: "About"
+  - url: "/about/2020-planning/"
+    title: "2020 Team"
+  - url: "/about/2021-planning/"
+    title: "2021 Team"
  # - url: "/about/code/"
  #   title: "Code of Conduct"
  # - url: "/about/2021/"
  #   title: "WILU 2021"
 
-#program:
+program:
 #  - url: "/program/"
  #   title: "Program"
-#  - url: "/program/keynotes/"
-#    title: "Keynotes"
+  - url: "/program/keynotes/"
+    title: "Keynotes"
 #  - url: "/program/workshops/"
 #    title: "Workshops"
 #  - url: "/program/archive/"
