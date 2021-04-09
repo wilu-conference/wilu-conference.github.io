@@ -40,7 +40,7 @@ If you need to report a Code of Conduct violation, you may:
 - Contact us via the Conference email: <{{ site.email }}>
 
 Reach out directly to a member of the Code of Conduct Committee:
-- Melissa Helwig, Dalhousie University, MELISSA.HELWIG@DAL.CA
+- Melissa Helwig, Dalhousie University, she/their, MELISSA.HELWIG@DAL.CA
 - Deborah Hemming, Dalhousie University, she/her, DEBORAH.HEMMING@DAL.CA
 - Lindsey MacCallum, Mount Saint Vincent University, she/her, LINDSEY.MACCALLUM@MSVU.CA
 - Denyse Rodrigues, Mount Saint Vincent University, she/their, DENYSE.RODRIGUES@MSVU.CA
@@ -61,7 +61,7 @@ Depending on the circumstances, the WILU Planning Team may be obliged to involve
 * Email: <{{ site.email }}>
 * [WILU 2021 Conference Code of Conduct Incident Reporting Form](https://forms.office.com/r/fNJ7MikNKB)
 * Reach out directly to a member of the Code of Conduct Committee:
-- Melissa Helwig, Dalhousie University, MELISSA.HELWIG@DAL.CA
+- Melissa Helwig, Dalhousie University, she/their, MELISSA.HELWIG@DAL.CA
 - Deborah Hemming, Dalhousie University, she/her, DEBORAH.HEMMING@DAL.CA
 - Lindsey MacCallum, Mount Saint Vincent University, she/her, LINDSEY.MACCALLUM@MSVU.CA
 - Denyse Rodrigues, Mount Saint Vincent University, she/their, DENYSE.RODRIGUES@MSVU.CA 
