@@ -45,6 +45,29 @@ Reach out directly to a member of the Code of Conduct Committee:
 - Lindsey MacCallum, Mount Saint Vincent University, she/her, LINDSEY.MACCALLUM@MSVU.CA
 - Denyse Rodrigues, Mount Saint Vincent University, she/their, DENYSE.RODRIGUES@MSVU.CA
 
+### Complaint Process
+
+A Code of Conduct Committee member will contact the alleged violator as soon as possible.
+
+Once the alleged violator has been contacted, the Code of Conduct Committee member will:
+
+- Relay the details of the complaint, without identifying the complainant.
+- Provide or link to a copy of the Code of Conduct and procedure and identify the behaviour that prompted the complaint.
+- Record the alleged violator’s response to the complaint.
+- Meeting of the Code of Conduct Committee
+
+The Code of Conduct Committee will review the matter as soon as possible. If the Committee agrees that the behaviour constituted a violation of the Code of Conduct, they will also decide upon the sanction to apply, based on the severity of the incident.
+
+Sanctions may include:
+
+- Warning with notice of further sanctions if the behaviour continues.
+- Advise violator to seek no further contact with the person who has lodged the complaint (providing the complainant has not requested anonymity).
+- Removal of formal role associated with the event  (if the person is a volunteer, speaker, etc.) but permission to stay.
+- Removal from the event.
+- After the Committee has come to an agreement, up to two representatives will be tasked with communicating directly with the alleged violator to inform them of the committee's decision and any associated sanctions.
+
+The Code of Conduct representative will not facilitate or relay any apologies or messages from the alleged violator or attempt to mediate a difference of opinion.
+
 ### More Information
 
 WILU 2021 Conference Code of Conduct incidents may be reported by direct message or email to the Code of Conduct Committee or online by completing the [WILU 2021 Conference Code of Conduct Incident Reporting Form](https://forms.office.com/r/fNJ7MikNKB). Code of Conduct incidents will be kept anonymous and shared only with the Code of Conduct Committee.
@@ -54,7 +77,6 @@ All measures will be taken to protect the identity of the reporting participant 
 If the report is made against a WILU Planning Team or Code of Conduct member, they will not be involved in the resolution.
 
 Depending on the circumstances, the WILU Planning Team may be obliged to involve law enforcement. When possible, this will be left up to the discretion of the reporting participant.
-
 
 ## Contact Information
 * Incidents may be reported to the conference email, via the online form, or to a Code of Conduct team member by their email or by direct message in the online conference system.
