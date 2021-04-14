@@ -18,8 +18,6 @@ permalink: /about/2021-planning/
 *Mount Saint Vincent University Library*\
 **Meg Raven**\
 *Mount Saint Vincent University Library*\
-**Lindsay McNiff**\
-*Dalhousie Libraries, Killam Memorial Library*\
 **Shawna Murphy**\
 *Patrick Power Library*\
 **Shelley McKibbon**\
