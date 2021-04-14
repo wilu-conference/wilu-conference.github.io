@@ -26,7 +26,6 @@ permalink: /about/2021-planning/
 ### Committee Chairs:
 
 *Programming: Heather Sanderson*\
-*Web & Logistics: Committee: Denyse Rodrigues, Melissa Helwig*\
-*Logistics: Cindy Harrigan, Melissa Helwig*\
+*Web & Logistics: Committee: Denyse Rodrigues, Cindy Harrigan, Melissa Helwig*\
 *Volunteers: Shawna Murphy & Shelley McKibbon*\
 *Finance: Melissa Helwig & Anne Matthewman*
