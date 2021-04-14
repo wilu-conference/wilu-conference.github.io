@@ -3,7 +3,7 @@ layout: post
 title: Speaker Bios
 permalink: /program/speakers/
 ---
-<a name="keynote-1"></a>**Kim Brooks** is the Purdy Crawford Chair in Business Law, a teacher at Dalhousie’s Schulich School of Law, a 3M Fellow, and a sometimes student. *([Opening keynote description](/program#keynote-1).)*
+<a name="keynote-1"></a>**Kim Brooks** is the Dean of the Faculty of Management at Dalhousie, a teacher, a 3M Fellow, a member of the Halifax Regional Library board, and a student (at least most days). *([Opening keynote description](/program#keynote-1).)*
 
 <a name="keynote-2"></a>**Veronica Arellano Douglas** is the Instruction Coordinator at the University of Houston Libraries. Her research interests focus on the intersection of gender, race, ethnicity and labor in academic libraries, applying relational-cultural theory to librarianship, and critical information literacy pedagogy. You can find her writing at ACRLog and on her personal blog, Libraries + Inquiry. *([Closing keynote description](/program#keynote-2).)*
 
