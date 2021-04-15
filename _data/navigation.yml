@@ -35,6 +35,8 @@ program:
     title: "Keynotes"
   - url: "/program/workshops/"
     title: "Workshops"
+  - url: "/program/panel/"
+    title: "Panel"
 #  - url: "/program/archive/"
 #    title: "Archive"
 

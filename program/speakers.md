@@ -19,13 +19,25 @@ Writing, teaching, and compiling information are three of Margie’s passions. E
 
 <br />
 
+<a name="garza"></a>**Lorena Almaraz De La Garza** is a Mexican cisgender woman. She is a Master of Information student with concentrations in Critical Information Policy Studies and Human-Centred Data Science at the University of Toronto’s Faculty of Information. Her work includes the development and delivery of public programs in culture and education, nationally and locally. She holds a Bachelor’s degree from the University of Waterloo in Fine Arts and Cognitive Science. *([Panel description](/program/panel).)*
+
+<br />
+
+<a name="harrison"></a>**Oy Lein Jace Harrison**, or, Jace, is a Black, Chinese, and Jamaican information professional based in Tkaranto (Toronto, ON). She has conducted research on Canadian libraries' responses to the Truth and Reconciliation Commission's Calls to Actions and, most recently, the impacts of COVID-19 on racialized communities. Her research interests include the intersections of Black and Indigenous Intellectual Property Rights and access issues in Indigenous knowledge systems. Jace holds a Master of Information with a concentration in Critical Information Policy, a Bachelor of Arts in Communications, Culture, and Information Technology; Professional Writing; English Literature, and a Certificate in Digital Communications from Sheridan College. *([Panel description](/program/panel).)*
+
+<br />
+
+<a name="humeniuk"></a>**Lo Humeniuk** is a white Master of Information student concentrating on Library and Information Sciences, currently residing in Tkaranto. She has worked and volunteered in literary spheres as well as in libraries and archives for the last several years with roles including cataloguing, social media work and content writing, research, and curation, as well as on projects to increase accessibility. She holds a Masters degree in Media Studies and has worked with the Diversity Working Group for the past year. *([Panel description](/program/panel).)*
+
+<br />
+
 ![Betsy Keating](/assets/images/PCBetsyKeating264.jpg "Betsy Keating"){: width="200" }
 <a name="keating"></a>**Dr. Betsy Keating** is an Educational Developer with Dalhousie's Centre for Teaching and Learning. She has an MA in English and a PhD in Educational Studies with an emphasis on cognition and learning in higher education. Betsy has been a long-time advocate for instructors' development, helping them to frame and present evidence of their teaching effectiveness from multiple sources, and supporting discussions about how evidence is, and/or might be, used for both growth and promotion. *([Workshop description](/program/workshops#workshop-1).)*  
 
 <br />
 
 ![Lindsey MacCallum](/assets/images/MacCallum profile_pic.jpeg "Lindsey MacCallum"){: width="200" }
-<a name="maccalum"></a>**Lindsey MacCallum** is the Scholarly Publishing Librarian at Mount Saint Vincent University in Halifax, Nova Scotia. She holds a BA History from the University of New Brunswick and a MA Librarianship from the University of Sheffield, UK. Her research interests include building capacity for scholarly publishing--including Open Access and Open Educational Resources--at small academic institutions, the ethics of care in librarianship, and exploring the history of home economics in the Maritimes. *([Workshop description](/program/workshops#workshop-3).)*
+<a name="maccallum"></a>**Lindsey MacCallum** is the Scholarly Publishing Librarian at Mount Saint Vincent University in Halifax, Nova Scotia. She holds a BA History from the University of New Brunswick and a MA Librarianship from the University of Sheffield, UK. Her research interests include building capacity for scholarly publishing--including Open Access and Open Educational Resources--at small academic institutions, the ethics of care in librarianship, and exploring the history of home economics in the Maritimes. *([Workshop description](/program/workshops#workshop-3).)*
 
 <br />
 

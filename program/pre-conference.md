@@ -46,4 +46,4 @@ This workshop will provide basic information to start the journey of lowering on
 Open Educational Resources (OER) are increasingly being recognized as essential to equity-based pedagogical practice. Both novices and experts in OER will benefit from this workshop, which will turn the lens on librarians as creators of teaching and learning materials and discuss various options and opportunities for sharing our work. The workshop will provide a foundation of knowledge about Open Educational Resources for library instructors and will guide participants step-by-step through the theoretical and practical considerations involved in creating OER. Topics will include copyright licenses, formatting, embedding interactivity, dissemination, and OER as pedagogy. Participants will come away from the workshop with the knowledge and skills needed to make their teaching and learning material freely available on a global scale.
 
 Workshop participants are asked to attend the session with an assignment/activity/exercise they've created and/or adapted.  
-*About [Lindsey MacCallum](/program/speakers#maccalum).*
+*About [Lindsey MacCallum](/program/speakers#maccallum).*
