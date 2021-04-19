@@ -28,37 +28,32 @@ If at any time a participant feels that they have been harassed or that this cod
 
 ### Mindful Social Media
 
-The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2021.
-If you are planning on taking photos, screen captures, or videos while at WILU 2021, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
+The WILU Planning Team asks that all participants be mindful of their social media use while at WILU 2021. If you are planning on taking photos, screen captures, or videos while at WILU 2021, please ask permission of attendees and session presenters before posting or tagging photos that may be identifying or contain potentially sensitive information.
 
 ## Reporting Process
 
 If you need to report a Code of Conduct violation, you may:
 
-- Submit your report via an online form: https://forms.office.com/r/fNJ7MikNKB
-
+- Submit your report via an [online form](https://forms.office.com/r/fNJ7MikNKB).
 - Contact us via the Conference email: <{{ site.email }}>
 
 Reach out directly to a member of the Code of Conduct Committee:
-- Melissa Helwig, Dalhousie University, she/their, MELISSA.HELWIG@DAL.CA
-- Deborah Hemming, Dalhousie University, she/her, DEBORAH.HEMMING@DAL.CA
-- Lindsey MacCallum, Mount Saint Vincent University, she/her, LINDSEY.MACCALLUM@MSVU.CA
-- Denyse Rodrigues, Mount Saint Vincent University, she/their, DENYSE.RODRIGUES@MSVU.CA
+
+- Melissa Helwig, Dalhousie University, she/their, <melissa.helwig@dal.ca>
+- Deborah Hemming, Dalhousie University, she/her, <deborah.hemming@dal.ca>
+- Lindsey MacCallum, Mount Saint Vincent University, she/her, <lindsey.maccallum@msvu.ca>
+- Denyse Rodrigues, Mount Saint Vincent University, she/their, <denyse.rodrigues@msvu.ca>
 
 ### Complaint Process
 
-A Code of Conduct Committee member will contact the alleged violator as soon as possible.
-
-Once the alleged violator has been contacted, the Code of Conduct Committee member will:
+A Code of Conduct Committee member will contact the alleged violator as soon as possible. Once the alleged violator has been contacted, the Code of Conduct Committee member will:
 
 - Relay the details of the complaint, without identifying the complainant.
 - Provide or link to a copy of the Code of Conduct and procedure and identify the behaviour that prompted the complaint.
 - Record the alleged violator’s response to the complaint.
 - Meeting of the Code of Conduct Committee
 
-The Code of Conduct Committee will review the matter as soon as possible. If the Committee agrees that the behaviour constituted a violation of the Code of Conduct, they will also decide upon the sanction to apply, based on the severity of the incident.
-
-Sanctions may include:
+The Code of Conduct Committee will review the matter as soon as possible. If the Committee agrees that the behaviour constituted a violation of the Code of Conduct, they will also decide upon the sanction to apply, based on the severity of the incident. Sanctions may include:
 
 - Warning with notice of further sanctions if the behaviour continues.
 - Advise violator to seek no further contact with the person who has lodged the complaint (providing the complainant has not requested anonymity).
@@ -72,23 +67,21 @@ The Code of Conduct representative will not facilitate or relay any apologies or
 
 WILU 2021 Conference Code of Conduct incidents may be reported by direct message or email to the Code of Conduct Committee or online by completing the [WILU 2021 Conference Code of Conduct Incident Reporting Form](https://forms.office.com/r/fNJ7MikNKB). Code of Conduct incidents will be kept anonymous and shared only with the Code of Conduct Committee.
 
-All measures will be taken to protect the identity of the reporting participant and prevent retaliation.
-
-If the report is made against a WILU Planning Team or Code of Conduct member, they will not be involved in the resolution.
+All measures will be taken to protect the identity of the reporting participant and prevent retaliation. If the report is made against a WILU Planning Team or Code of Conduct member, they will not be involved in the resolution.
 
 Depending on the circumstances, the WILU Planning Team may be obliged to involve law enforcement. When possible, this will be left up to the discretion of the reporting participant.
 
 ## Contact Information
-* Incidents may be reported to the conference email, via the online form, or to a Code of Conduct team member by their email or by direct message in the online conference system.
+Incidents may be reported to the conference email, via the online form, or to a Code of Conduct team member by their email or by direct message in the online conference system.
 * Email: <{{ site.email }}>
 * [WILU 2021 Conference Code of Conduct Incident Reporting Form](https://forms.office.com/r/fNJ7MikNKB)
-* Reach out directly to a member of the Code of Conduct Committee:
-- Melissa Helwig, Dalhousie University, she/their, MELISSA.HELWIG@DAL.CA
-- Deborah Hemming, Dalhousie University, she/her, DEBORAH.HEMMING@DAL.CA
-- Lindsey MacCallum, Mount Saint Vincent University, she/her, LINDSEY.MACCALLUM@MSVU.CA
-- Denyse Rodrigues, Mount Saint Vincent University, she/their, DENYSE.RODRIGUES@MSVU.CA 
+
+Reach out directly to a member of the Code of Conduct Committee:
+- Melissa Helwig, Dalhousie University, she/their, <melissa.helwig@dal.ca>
+- Deborah Hemming, Dalhousie University, she/her, <deborah.hemming@dal.ca>
+- Lindsey MacCallum, Mount Saint Vincent University, she/her, <lindsey.maccallum@msvu.ca>
+- Denyse Rodrigues, Mount Saint Vincent University, she/their, <denyse.rodrigues@msvu.ca>
 
 Adapted from the [CRKN Conference Code of Conduct](https://www.crkn-rcdr.ca/en/conference/crkn-virtual-conference/code-conduct), the [Ontario Library Association Code of Conduct for OLA Events](http://www.olasuperconference.ca/about/code-of-conduct/), [the Canadian Alliance of Student Associations’ Code of Conduct](https://www.casa-acae.com/code_of_conduct) and the [Munin Conference on Scholarly Publishing Policy on Sexual Harassment](http://site.uit.no/muninconf/?page_id=1358)
 
 **[Return to top](#conduct-during-the-conference)**
-
