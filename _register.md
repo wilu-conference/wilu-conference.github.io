@@ -3,7 +3,7 @@ layout: post
 title: Register
 permalink: /register/
 ---
-**Registration is open! [Online Registration Form](https://registration)**
+**Registration is opening soon (aka next week)**
 
 **Pre-conference workshops #1, #2, #3**: Monday, June 21, 2021 - 12 to 2 pm ADT
 **Pre-conference workshop #4**: Monday, June 21, 2021 - 2:30 to 4:30 pm ADT
