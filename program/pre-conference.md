@@ -49,9 +49,9 @@ This workshop will be an opportunity for each participant to begin creating and 
 The first point of contact for many people with libraries is often a LibGuide and/or website. One in three Nova Scotians identifies as having at least one disability. These current, and potential, library users with disabilities need accessible digital materials, such as websites and LibGuides. Making these digital materials more accessible is even more crucial today, because many have to rely on the digital realm, due to COVID-19 restrictions.  
 
 This workshop will provide basic information to start the journey of lowering online barriers. It will focus on:
-- Nova Scotia’s Digital Accessibility Related Legislation and Impact
-- The Range of Diverse Users and Different Technologies  
-- How People Are Accessing Your Digital Materials (with live demos of technologies)
+- *Nova Scotia’s Digital Accessibility* related legislation and impact
+- The range of diverse users and different technologies  
+- How people are accessing your digital materials (with live demos of technologies)
 - Tips you can use right away to make content, navigation, design and layout more accessible for all users.
 - Key resources for LibGuide accessibility.
 - No technical expertise is required, just an interest in the subject.  
