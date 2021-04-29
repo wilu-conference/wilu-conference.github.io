@@ -11,7 +11,7 @@ permalink: /register/
 
 If you want to attend one of the pre-conference workshops, you must also register for the full conference. Schedule overview will be posted shortly but each day a mix of live and recorded sessions will be available for conference attendees.
 
-Conference registration includes access to the full conference including Workshop #4: Librarians and Open Education Resources: Users, Adapters, and Creators. As well as access to conference recordings up to September 20, 2021. 
+Conference registration includes access to the full conference including Workshop #4: Librarians and Open Education Resources: Users, Adapters, and Creators. As well as access to conference recordings up to September 30, 2021. 
 
 | WILU 2020 Registration Rates | Pre-tax  | HST | Total |
 |:--|:--|:--:|--:|
