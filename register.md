@@ -3,7 +3,8 @@ layout: post
 title: Register
 permalink: /register/
 ---
-**Registration will open during the first week of May.**
+
+**Registration is open! [Online Registration Form](https://registration.dal.ca/WILU2021)**
 
 **[Pre-conference workshops #1, #2, #3](/program/workshops)**: Monday, June 21, 2021 - 12 to 2 pm ADT (not recorded)
 
