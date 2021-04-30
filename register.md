@@ -9,7 +9,7 @@ permalink: /register/
 
 **[Pre-conference workshop #4](/program/workshops)**: Monday, June 21, 2021 - 2:30 to 4:30 pm ADT (A portion of this session will be recorded)
 
-**Conference**: Tuesday, June 22, 2021 - Friday, June 25, 2021; Each day will run from 12 to 5 pm ADT with options for further recording viewing.
+**Conference**: Tuesday, June 22, 2021 - Friday, June 25, 2021; Each day will run from 12 to 5 pm ADT with options for viewing recordings outside of conference hours.
 
 If you want to attend one of the pre-conference workshops, you must also register for the full conference. Schedule overview will be posted shortly but each day a mix of live and recorded sessions will be available for conference attendees.
 
