@@ -5,7 +5,7 @@ main:
     title: "About"
   - url: "/register/"
     title: "Register"
-  - url: "/program/keynotes/"
+  - url: "/program/"
     title: "Program"
   #- url: "/call/"
   #  title: "Call for Proposals"
@@ -29,8 +29,8 @@ about:
  #   title: "WILU 2021"
 
 program:
-#  - url: "/program/"
- #   title: "Program"
+  - url: "/program/"
+    title: "Program"
   - url: "/program/keynotes/"
     title: "Keynotes"
   - url: "/program/workshops/"
