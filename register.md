@@ -19,8 +19,8 @@ Conference registration includes access to the full conference including Worksho
 | WILU 2020 Registration Rates | Pre-tax  | HST | Total |
 |:--|:--|:--:|--:|
 | **Workshops #1, #2, & #3** – Monday, June 21 (12 to 2 pm ADT), not recorded | $50 | $7.50 | $57.50 |
-| **Early Bird** conference registration rate *(before May 20, 2021)* | $125 | $18.75 | $143.75 |
-| **Regular** conference registration rate *(after May 20, 2021)* | $175  | $26.25 | $201.25 |
+| **Early Bird** conference registration rate *(before May 21, 2021)* | $125 | $18.75 | $143.75 |
+| **Regular** conference registration rate *(after May 21, 2021)* | $175  | $26.25 | $201.25 |
 | **Speaker** conference registration rate *(before May 28, 2021)* | $75 | $11.25 | $86.25 |
 | **Student & Precarious Employment** [^1] *(before May 28, 2021)* | $25  | $3.75  | $28.75 |
 
