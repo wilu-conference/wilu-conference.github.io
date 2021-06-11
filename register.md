@@ -6,6 +6,10 @@ permalink: /register/
 
 **Registration is now closed**
 
+**Pheedloop**
+
+WILU 2021 will be held on conference software -Pheedloop-. An invitation to join the software and create your attendee profile will be sent out to you from Pheedloop on June 15th, 2021. Please watch your email during the dates for an email from the Pheedloop system.
+
 **[Pre-conference workshops #1, #2, #3](/program/workshops)**: Monday, June 21, 2021 - 12 to 2 pm ADT (not recorded)
 
 **[Pre-conference workshop #4](/program/workshops)**: Monday, June 21, 2021 - 2:30 to 4:30 pm ADT (A portion of this session will be recorded)
@@ -30,6 +34,3 @@ Conference registration includes access to the full conference including Worksho
 
 Full refunds will be available for cancellations made prior to May 28, 2021. Cancellations made after this date will not receive a refund. To cancel your registration, please email Dalhousie Conference Services at: onlreg@dal.ca
 
-**Pheedloop**
-
-WILU 2021 will be held on conference software -Pheedloop-. An invitation to join the software and create your attendee profile will be sent out to you from Pheedloop between June 7th and June 9th, 2021. Please watch your email during the dates for an email from the Pheedloop system.
