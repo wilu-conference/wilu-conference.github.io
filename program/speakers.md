@@ -20,7 +20,7 @@ Writing, teaching, and compiling information are three of Margie’s passions. E
 <br />
 
 ![Lorena Almaraz De La Garza](/assets/images/Lorena-headshot.png "Lorena Almaraz De La Garza"){: width="200" }
-<a name="garza"></a>**Lorena Almaraz De La Garza** is a Mexican cisgender woman. She is a Master of Information student with concentrations in Critical Information Policy Studies and Human-Centred Data Science at the University of Toronto’s Faculty of Information. Her work includes the development and delivery of public programs in culture and education, nationally and locally. She holds a Bachelor’s degree from the University of Waterloo in Fine Arts and Cognitive Science. *([Panel description](/program/panel).)*
+<a name="garza"></a>**Lorena Almaraz De La Garza** is a Mexican cisgender woman. She is a Master of Information student with concentrations in Critical Information Policy Studies and Human-Centred Data Science at the University of Toronto’s Faculty of Information. Her work includes the development and delivery of public programs in culture and education, nationally and locally. Lorena is the current Chair of the Diversity Working Group at the University of Toronto’s Faculty of Information. She holds a Bachelor’s degree from the University of Waterloo in Fine Arts and Cognitive Science. *([Panel description](/program/panel).)*
 
 <br />
 
