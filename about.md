@@ -19,7 +19,7 @@ The workshop continues to exist independently from library organizations in orde
 - **2021 Dalhousie University, Mount Saint Vincent University, Saint Mary's University - [Visions of the Possible](https://wiluconference.github.io/wilu2021)**  
 Kim Brooks: Teaching as though what mattered most was our learning  
 Veronica Douglas: Counter-narratives in Teaching Librarianship  
-- **2020 | CANCELLED | Dalhousie University, Mount Saint Vincent University, Saint Mary's University - [Visions of the Possible](https://wiluconference.github.io/wilu2020)**
+- **2020 | CANCELLED Dalhousie University, Mount Saint Vincent University, Saint Mary's University - [Visions of the Possible](https://wiluconference.github.io/wilu2020)**
 - **2019 University of Winnipeg, University of Manitoba, Red River College - [Engaging Place and Practice](http://wilu2019.ca/)**  
 Jesse Stommel: Against Scaffolding: Radical Openness and Critical Digital Pedagogy  
 Sarah Dupont: Indigenization of Information Practices: Ideas to inspire, Innovate & Implement
