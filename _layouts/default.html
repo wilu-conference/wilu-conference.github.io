@@ -1,0 +1,19 @@
+<!doctype html>
+<html{% if page.lang == "en" %} lang="en"{% elsif page.lang == "fr" %} lang="fr"{% endif %}>
+  <head>
+    <title>
+      {% if page.url.size < 5 %}
+        {{ site.title }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body class="layout-full-width style-classic palette-red mode-light font-sans-serif">
+    {{ content }}
+  </body>
+</html>

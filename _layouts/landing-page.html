@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div id="site-wrap" class="site">
+  <header class="site-header py-2">
+    <div class="container">
+      <nav class="navbar flex items-center" aria-label="Main Navigation">
+        <a class="sr-only" href="#content">Skip to main content</a>
+        <div class="navbar__branding mr-2">
+          <a class="navbar__logo m-0" href="{% if page.lang == "en" %}{{ "/en/" | relative_url }}{% else %}{{ "/fr/" | relative_url }}{% endif %}"><img src="{{ "/assets/images/logo.svg" | relative_url }}" alt="WILU 2022 Carte Blanche"></a>
+        </div>
+        <div class="navbar__container flex-md-auto">
+          <div class="navbar__scroller">
+            <div class="navbar__inner">
+              <button aria-label="Close" class="btn btn--icon btn--clear navbar__close-btn js-nav-toggle">
+                <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M23.962 1.412L22.55 0 11.981 10.57 1.411 0 0 1.412l10.57 10.57L0 22.55l1.412 1.412 10.57-10.57 10.568 10.57 1.412-1.412-10.57-10.569z"></path>
+                </svg>
+                <span class="sr-only">Close</span>
+              </button>
+              <div class="navbar__menu flex-md">
+                <ul class="menu flex-md items-md-center">
+                  {% if page.lang == "en" %}
+                    {% assign english_pages = site.pages | where: "lang", "en" | sort: "weight" %}
+                    {% for page in english_pages %}
+                      {% if page.url.size > 4 %}
+                        <li class="menu__item ml-md-3"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  {% else %}
+                    {% assign french_pages = site.pages | where: "lang", "fr" | sort: "weight" %}
+                    {% for page in french_pages %}
+                      {% if page.url.size > 4 %}
+                        <li class="menu__item ml-md-3"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                  <li class="menu__item ml-md-3"><a href="{{ page.homologue | relative_url}}">{% if page.lang == "en" %}<em>Passer au français</em>{% else %}<em>Switch to English</em>{% endif %}</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button aria-label="Menu" class="btn btn--icon btn--clear navbar__menu-btn js-nav-toggle ml-auto">
+          <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M19 11v1.92H0V11zm5-8v1.92H0V3zm-2 16v1.92H0V19z"></path>
+          </svg>
+          <span class="sr-only">Menu</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+  <main id="content" class="site-content">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <div class="site-footer__info py-3 py-sm-4">
+      <div class="container">
+        <div class="grid items-center">
+          <div class="site-footer__copyright cell-12">
+            <span>© Stackbit. {% if page.lang == "en" %}All rights reserved. “<a href="https://www.flickr.com/photos/107892449@N03/49051880646/in/photolist-2hJxHb7-29vqTPf-oqXXPb-Ge77b-aFi2Rz-7usXyc-6VDrSa-osHB68-ovgx7Q-7f5vH6-2hrLNxG-2i4KL1d-oMJv8m-YSht8i-Fpwt8p-oMuvbe-Mt3b7k-7ynf7Y-2hrLNvH-2hrLNyo-c1PvJq-21YgdVJ-7NbQih-bUgyAB-TA1qrU-bUgyFe-8Lt4vZ-c1NNLJ-UaWmFM-U3sva9-cbCKHW-4PABnW-7kNK13-4SAJEJ-cE6zcL-X5tz2u-STAWJj-2gLDwaP-4Gqnya-8HYG86-i8Bi7v-bkFN5H-o5B8Ss-8Ko3ym-wQJZu-7ckjDQ-26Kd1ba-bD8kgp-279Rzuh-UaVKAg">Montreal</a>” by <a href="https://www.flickr.com/photos/107892449@N03/">Jim & Robin Kunze</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.{% else %}Tous droits réservés. « <a href="https://www.flickr.com/photos/107892449@N03/49051880646/in/photolist-2hJxHb7-29vqTPf-oqXXPb-Ge77b-aFi2Rz-7usXyc-6VDrSa-osHB68-ovgx7Q-7f5vH6-2hrLNxG-2i4KL1d-oMJv8m-YSht8i-Fpwt8p-oMuvbe-Mt3b7k-7ynf7Y-2hrLNvH-2hrLNyo-c1PvJq-21YgdVJ-7NbQih-bUgyAB-TA1qrU-bUgyFe-8Lt4vZ-c1NNLJ-UaWmFM-U3sva9-cbCKHW-4PABnW-7kNK13-4SAJEJ-cE6zcL-X5tz2u-STAWJj-2gLDwaP-4Gqnya-8HYG86-i8Bi7v-bkFN5H-o5B8Ss-8Ko3ym-wQJZu-7ckjDQ-26Kd1ba-bD8kgp-279Rzuh-UaVKAg">Montreal</a> » par <a href="https://www.flickr.com/photos/107892449@N03/">Jim & Robin Kunze</a> est sous licence <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>.{% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+<div class="nav-overlay js-nav-toggle"></div>
+<script src="{{ "/assets/js/init.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/page-load.js" | relative_url }}"></script>

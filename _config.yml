@@ -1,0 +1,9 @@
+title: WILU 2022
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'README.md'
+
+sass:
+    style: compressed
