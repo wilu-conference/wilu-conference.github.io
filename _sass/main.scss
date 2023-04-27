@@ -48,3 +48,8 @@ dd {margin-left: 35px}
 ol.footnote {margin-top: 60px; font-size: 85%}
 table > caption {color: #2c343c; font-size: 1em}
 span > a.btn.btn--primary {margin-left: 15px}
+div.site-footer__copyright {margin-top: 10px}
+@media (min-width: 641px) {.site-footer__copyright:not(:only-child) {text-align: center}}
+div.site-footer__acknowledgement {display: flex; gap: 1rem; justify-content: center}
+div.site-footer__acknowledgement > svg {flex-grow: 0}
+div.site-footer__acknowledgement > div {align-self: center; width: 61%; line-height: 1.4em; font-size: 0.77778em; font-style: italic}
